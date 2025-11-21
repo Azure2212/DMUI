@@ -381,7 +381,6 @@ predictBtn.addEventListener("click", () => {
     data['classifier'] = classifierSelect.value;
 
     // Show loading overlay
-    loadingOverlay.style.display = 'flex';
 
     fetch('/predict', {
         method: 'POST',
@@ -397,7 +396,7 @@ predictBtn.addEventListener("click", () => {
         alert('Error sending request to server.');
     })
     .finally(() => {
-        loadingOverlay.style.display = 'none';
+
     });
 });
 
