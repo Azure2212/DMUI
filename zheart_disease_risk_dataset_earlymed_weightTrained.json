@@ -1,0 +1,8488 @@
+[
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"5"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14581,
+		"antecedentNConsequentSUP  ": 14353,
+		"confidence": 0.9843632123996983,
+		"confidencePurity": 0.8699944542244977
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"7"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14531,
+		"antecedentNConsequentSUP  ": 14297,
+		"confidence": 0.9838964971440369,
+		"confidencePurity": 0.8668476549045299
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"9"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14509,
+		"antecedentNConsequentSUP  ": 14276,
+		"confidence": 0.9839410021366048,
+		"confidencePurity": 0.8671467645926066
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"11"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14503,
+		"antecedentNConsequentSUP  ": 14278,
+		"confidence": 0.9844859684203269,
+		"confidencePurity": 0.870825874964406
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"13"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14536,
+		"antecedentNConsequentSUP  ": 14300,
+		"confidence": 0.9837644468904788,
+		"confidencePurity": 0.8659613507001548
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14491,
+		"antecedentNConsequentSUP  ": 14261,
+		"confidence": 0.9841280794976192,
+		"confidencePurity": 0.86840628561243
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12935,
+		"antecedentNConsequentSUP  ": 12609,
+		"confidence": 0.9747970622342481,
+		"confidencePurity": 0.8093424917902552
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12814,
+		"antecedentNConsequentSUP  ": 12493,
+		"confidence": 0.9749492742313095,
+		"confidencePurity": 0.8102521058305502
+	},
+	{
+		"antecedent": [
+			"1",
+			"5",
+			"7"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14628,
+		"antecedentNConsequentSUP  ": 14409,
+		"confidence": 0.9850287120590648,
+		"confidencePurity": 0.8745209683573264
+	},
+	{
+		"antecedent": [
+			"1",
+			"5",
+			"9"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14528,
+		"antecedentNConsequentSUP  ": 14316,
+		"confidence": 0.9854074889867841,
+		"confidencePurity": 0.8771186136376424
+	},
+	{
+		"antecedent": [
+			"1",
+			"5",
+			"11"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14577,
+		"antecedentNConsequentSUP  ": 14356,
+		"confidence": 0.9848391301365165,
+		"confidencePurity": 0.8732266843885145
+	},
+	{
+		"antecedent": [
+			"1",
+			"5",
+			"13"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14661,
+		"antecedentNConsequentSUP  ": 14433,
+		"confidence": 0.9844485369347248,
+		"confidencePurity": 0.8705721861770549
+	},
+	{
+		"antecedent": [
+			"1",
+			"5",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14544,
+		"antecedentNConsequentSUP  ": 14335,
+		"confidence": 0.9856298129812981,
+		"confidencePurity": 0.8786507021318716
+	},
+	{
+		"antecedent": [
+			"1",
+			"5",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 13009,
+		"antecedentNConsequentSUP  ": 12686,
+		"confidence": 0.9751710354370051,
+		"confidencePurity": 0.8115801722444336
+	},
+	{
+		"antecedent": [
+			"1",
+			"5",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12856,
+		"antecedentNConsequentSUP  ": 12537,
+		"confidence": 0.9751866832607343,
+		"confidencePurity": 0.8116740100138535
+	},
+	{
+		"antecedent": [
+			"1",
+			"5",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12935,
+		"antecedentNConsequentSUP  ": 12611,
+		"confidence": 0.9749516814843447,
+		"confidencePurity": 0.8102665041595707
+	},
+	{
+		"antecedent": [
+			"1",
+			"5",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12903,
+		"antecedentNConsequentSUP  ": 12567,
+		"confidence": 0.9739595442920251,
+		"confidencePurity": 0.8043653849862473
+	},
+	{
+		"antecedent": [
+			"1",
+			"5",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12953,
+		"antecedentNConsequentSUP  ": 12629,
+		"confidence": 0.9749864896163051,
+		"confidencePurity": 0.8104747436947565
+	},
+	{
+		"antecedent": [
+			"1",
+			"5",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12856,
+		"antecedentNConsequentSUP  ": 12540,
+		"confidence": 0.9754200373366522,
+		"confidencePurity": 0.8130754033178108
+	},
+	{
+		"antecedent": [
+			"1",
+			"5",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12959,
+		"antecedentNConsequentSUP  ": 12626,
+		"confidence": 0.9743035728065437,
+		"confidencePurity": 0.806404172413375
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"9"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14531,
+		"antecedentNConsequentSUP  ": 14271,
+		"confidence": 0.9821072190489298,
+		"confidencePurity": 0.8549834970256981
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"11"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14538,
+		"antecedentNConsequentSUP  ": 14295,
+		"confidence": 0.983285183656624,
+		"confidencePurity": 0.8627592554813875
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"13"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14560,
+		"antecedentNConsequentSUP  ": 14325,
+		"confidence": 0.9838598901098901,
+		"confidencePurity": 0.8666017765564877
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14541,
+		"antecedentNConsequentSUP  ": 14288,
+		"confidence": 0.9826009215322192,
+		"confidencePurity": 0.8582264053996675
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12855,
+		"antecedentNConsequentSUP  ": 12526,
+		"confidence": 0.9744068455853754,
+		"confidencePurity": 0.8070177240473589
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12825,
+		"antecedentNConsequentSUP  ": 12498,
+		"confidence": 0.9745029239766082,
+		"confidencePurity": 0.8075891736201958
+	},
+	{
+		"antecedent": [
+			"1",
+			"9",
+			"11"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14494,
+		"antecedentNConsequentSUP  ": 14278,
+		"confidence": 0.9850972816337795,
+		"confidencePurity": 0.8749900532548863
+	},
+	{
+		"antecedent": [
+			"1",
+			"9",
+			"13"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14502,
+		"antecedentNConsequentSUP  ": 14295,
+		"confidence": 0.9857261067438974,
+		"confidencePurity": 0.8793160084407982
+	},
+	{
+		"antecedent": [
+			"1",
+			"9",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14521,
+		"antecedentNConsequentSUP  ": 14279,
+		"confidence": 0.9833344810963432,
+		"confidencePurity": 0.8630875763632117
+	},
+	{
+		"antecedent": [
+			"1",
+			"9",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12986,
+		"antecedentNConsequentSUP  ": 12653,
+		"confidence": 0.974356999845988,
+		"confidencePurity": 0.8067214977356407
+	},
+	{
+		"antecedent": [
+			"1",
+			"9",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12856,
+		"antecedentNConsequentSUP  ": 12540,
+		"confidence": 0.9754200373366522,
+		"confidencePurity": 0.8130754033178108
+	},
+	{
+		"antecedent": [
+			"1",
+			"9",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12760,
+		"antecedentNConsequentSUP  ": 12444,
+		"confidence": 0.9752351097178683,
+		"confidencePurity": 0.8119645232578385
+	},
+	{
+		"antecedent": [
+			"1",
+			"9",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12776,
+		"antecedentNConsequentSUP  ": 12442,
+		"confidence": 0.9738572323105823,
+		"confidencePurity": 0.803760569797835
+	},
+	{
+		"antecedent": [
+			"1",
+			"9",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12932,
+		"antecedentNConsequentSUP  ": 12603,
+		"confidence": 0.9745592329106093,
+		"confidencePurity": 0.8079243724168573
+	},
+	{
+		"antecedent": [
+			"1",
+			"9",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12836,
+		"antecedentNConsequentSUP  ": 12529,
+		"confidence": 0.9760828918666251,
+		"confidencePurity": 0.8170768315459688
+	},
+	{
+		"antecedent": [
+			"1",
+			"9",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12861,
+		"antecedentNConsequentSUP  ": 12518,
+		"confidence": 0.9733302231552756,
+		"confidencePurity": 0.8006559965678395
+	},
+	{
+		"antecedent": [
+			"1",
+			"11",
+			"13"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14569,
+		"antecedentNConsequentSUP  ": 14339,
+		"confidence": 0.9842130551170293,
+		"confidencePurity": 0.8689795802803061
+	},
+	{
+		"antecedent": [
+			"1",
+			"11",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14544,
+		"antecedentNConsequentSUP  ": 14317,
+		"confidence": 0.9843921892189219,
+		"confidencePurity": 0.8701905708363922
+	},
+	{
+		"antecedent": [
+			"1",
+			"11",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12973,
+		"antecedentNConsequentSUP  ": 12644,
+		"confidence": 0.9746396361674247,
+		"confidencePurity": 0.8084033707585551
+	},
+	{
+		"antecedent": [
+			"1",
+			"11",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12890,
+		"antecedentNConsequentSUP  ": 12564,
+		"confidence": 0.9747090768037238,
+		"confidencePurity": 0.8088174105393346
+	},
+	{
+		"antecedent": [
+			"1",
+			"11",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12822,
+		"antecedentNConsequentSUP  ": 12504,
+		"confidence": 0.9751988769302761,
+		"confidencePurity": 0.8117471453796882
+	},
+	{
+		"antecedent": [
+			"1",
+			"11",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12849,
+		"antecedentNConsequentSUP  ": 12513,
+		"confidence": 0.9738501050665421,
+		"confidencePurity": 0.8037184628610969
+	},
+	{
+		"antecedent": [
+			"1",
+			"11",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12922,
+		"antecedentNConsequentSUP  ": 12586,
+		"confidence": 0.9739978331527628,
+		"confidencePurity": 0.8045919059316492
+	},
+	{
+		"antecedent": [
+			"1",
+			"11",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12890,
+		"antecedentNConsequentSUP  ": 12561,
+		"confidence": 0.9744763382467029,
+		"confidencePurity": 0.8074309866412517
+	},
+	{
+		"antecedent": [
+			"1",
+			"11",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12890,
+		"antecedentNConsequentSUP  ": 12557,
+		"confidence": 0.974166020170675,
+		"confidencePurity": 0.8055880646957938
+	},
+	{
+		"antecedent": [
+			"1",
+			"11",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12900,
+		"antecedentNConsequentSUP  ": 12569,
+		"confidence": 0.9743410852713178,
+		"confidencePurity": 0.8066269545725122
+	},
+	{
+		"antecedent": [
+			"1",
+			"13",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14539,
+		"antecedentNConsequentSUP  ": 14335,
+		"confidence": 0.9859687736433043,
+		"confidencePurity": 0.8809973002182512
+	},
+	{
+		"antecedent": [
+			"1",
+			"13",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12965,
+		"antecedentNConsequentSUP  ": 12655,
+		"confidence": 0.9760894716544543,
+		"confidencePurity": 0.8171167066557068
+	},
+	{
+		"antecedent": [
+			"1",
+			"13",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12892,
+		"antecedentNConsequentSUP  ": 12573,
+		"confidence": 0.9752559726962458,
+		"confidencePurity": 0.8120897312774354
+	},
+	{
+		"antecedent": [
+			"1",
+			"13",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12860,
+		"antecedentNConsequentSUP  ": 12521,
+		"confidence": 0.9736391912908242,
+		"confidencePurity": 0.8024739136946003
+	},
+	{
+		"antecedent": [
+			"1",
+			"13",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12890,
+		"antecedentNConsequentSUP  ": 12558,
+		"confidence": 0.9742435996896819,
+		"confidencePurity": 0.8060481937934612
+	},
+	{
+		"antecedent": [
+			"1",
+			"13",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12940,
+		"antecedentNConsequentSUP  ": 12606,
+		"confidence": 0.9741885625965997,
+		"confidencePurity": 0.8057217240813402
+	},
+	{
+		"antecedent": [
+			"1",
+			"13",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12947,
+		"antecedentNConsequentSUP  ": 12605,
+		"confidence": 0.9735846141963389,
+		"confidencePurity": 0.8021523407598284
+	},
+	{
+		"antecedent": [
+			"1",
+			"15",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 13001,
+		"antecedentNConsequentSUP  ": 12668,
+		"confidence": 0.9743865856472579,
+		"confidencePurity": 0.8068973020212898
+	},
+	{
+		"antecedent": [
+			"1",
+			"15",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12865,
+		"antecedentNConsequentSUP  ": 12524,
+		"confidence": 0.9734939759036144,
+		"confidencePurity": 0.8016187198931659
+	},
+	{
+		"antecedent": [
+			"1",
+			"15",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12786,
+		"antecedentNConsequentSUP  ": 12470,
+		"confidence": 0.9752854684811513,
+		"confidencePurity": 0.8122667997923926
+	},
+	{
+		"antecedent": [
+			"1",
+			"15",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12794,
+		"antecedentNConsequentSUP  ": 12473,
+		"confidence": 0.9749101141159918,
+		"confidencePurity": 0.8100179357034913
+	},
+	{
+		"antecedent": [
+			"1",
+			"15",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12910,
+		"antecedentNConsequentSUP  ": 12572,
+		"confidence": 0.9738187451587916,
+		"confidencePurity": 0.8035332317207204
+	},
+	{
+		"antecedent": [
+			"1",
+			"15",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12810,
+		"antecedentNConsequentSUP  ": 12467,
+		"confidence": 0.973224043715847,
+		"confidencePurity": 0.800032678625801
+	},
+	{
+		"antecedent": [
+			"1",
+			"15",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12841,
+		"antecedentNConsequentSUP  ": 12500,
+		"confidence": 0.973444435791605,
+		"confidencePurity": 0.801327284282858
+	},
+	{
+		"antecedent": [
+			"2",
+			"4",
+			"6"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14385,
+		"antecedentNConsequentSUP  ": 14168,
+		"confidence": 0.9849148418491485,
+		"confidencePurity": 0.8737431069245462
+	},
+	{
+		"antecedent": [
+			"2",
+			"4",
+			"8"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14433,
+		"antecedentNConsequentSUP  ": 14255,
+		"confidence": 0.9876671516663202,
+		"confidencePurity": 0.8929604609710421
+	},
+	{
+		"antecedent": [
+			"2",
+			"4",
+			"10"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14577,
+		"antecedentNConsequentSUP  ": 14365,
+		"confidence": 0.985456541126432,
+		"confidencePurity": 0.8774561693094908
+	},
+	{
+		"antecedent": [
+			"2",
+			"4",
+			"12"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14476,
+		"antecedentNConsequentSUP  ": 14240,
+		"confidence": 0.9836971539099199,
+		"confidencePurity": 0.8655103651823199
+	},
+	{
+		"antecedent": [
+			"2",
+			"4",
+			"14"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14516,
+		"antecedentNConsequentSUP  ": 14304,
+		"confidence": 0.9853954257371177,
+		"confidencePurity": 0.877035640512209
+	},
+	{
+		"antecedent": [
+			"2",
+			"4",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14535,
+		"antecedentNConsequentSUP  ": 14308,
+		"confidence": 0.9843825249398005,
+		"confidencePurity": 0.8701251527606129
+	},
+	{
+		"antecedent": [
+			"2",
+			"4",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12868,
+		"antecedentNConsequentSUP  ": 12560,
+		"confidence": 0.9760646565122785,
+		"confidencePurity": 0.8169663369438002
+	},
+	{
+		"antecedent": [
+			"2",
+			"4",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12851,
+		"antecedentNConsequentSUP  ": 12527,
+		"confidence": 0.9747879542448058,
+		"confidencePurity": 0.8092881126217193
+	},
+	{
+		"antecedent": [
+			"2",
+			"4",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12889,
+		"antecedentNConsequentSUP  ": 12565,
+		"confidence": 0.9748622856699511,
+		"confidencePurity": 0.8097320721593745
+	},
+	{
+		"antecedent": [
+			"2",
+			"4",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12810,
+		"antecedentNConsequentSUP  ": 12475,
+		"confidence": 0.9738485558157689,
+		"confidencePurity": 0.8037093105069814
+	},
+	{
+		"antecedent": [
+			"2",
+			"4",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12886,
+		"antecedentNConsequentSUP  ": 12577,
+		"confidence": 0.9760204873506131,
+		"confidencePurity": 0.8166987978143286
+	},
+	{
+		"antecedent": [
+			"2",
+			"4",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12675,
+		"antecedentNConsequentSUP  ": 12348,
+		"confidence": 0.9742011834319526,
+		"confidencePurity": 0.8057965707305704
+	},
+	{
+		"antecedent": [
+			"2",
+			"4",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12923,
+		"antecedentNConsequentSUP  ": 12587,
+		"confidence": 0.973999845237174,
+		"confidencePurity": 0.8046038123079281
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"8"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14318,
+		"antecedentNConsequentSUP  ": 14112,
+		"confidence": 0.9856125157144853,
+		"confidencePurity": 0.8785313038341732
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"10"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14406,
+		"antecedentNConsequentSUP  ": 14221,
+		"confidence": 0.9871581285575455,
+		"confidencePurity": 0.8893377477944414
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"12"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14397,
+		"antecedentNConsequentSUP  ": 14176,
+		"confidence": 0.9846495797735639,
+		"confidencePurity": 0.8719364679908032
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"14"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14488,
+		"antecedentNConsequentSUP  ": 14248,
+		"confidence": 0.9834345665378245,
+		"confidencePurity": 0.8637548810427054
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14455,
+		"antecedentNConsequentSUP  ": 14224,
+		"confidence": 0.9840193704600484,
+		"confidencePurity": 0.8676739533851487
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12821,
+		"antecedentNConsequentSUP  ": 12498,
+		"confidence": 0.9748069573356213,
+		"confidencePurity": 0.8094015767770414
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12734,
+		"antecedentNConsequentSUP  ": 12396,
+		"confidence": 0.9734568870739752,
+		"confidencePurity": 0.8014005179938858
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12773,
+		"antecedentNConsequentSUP  ": 12441,
+		"confidence": 0.9740076724340405,
+		"confidencePurity": 0.804650131766548
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12804,
+		"antecedentNConsequentSUP  ": 12462,
+		"confidence": 0.9732895970009372,
+		"confidencePurity": 0.8004174182508145
+	},
+	{
+		"antecedent": [
+			"2",
+			"8",
+			"10"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14476,
+		"antecedentNConsequentSUP  ": 14285,
+		"confidence": 0.9868057474440454,
+		"confidencePurity": 0.886848881065539
+	},
+	{
+		"antecedent": [
+			"2",
+			"8",
+			"12"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14374,
+		"antecedentNConsequentSUP  ": 14184,
+		"confidence": 0.9867816891609851,
+		"confidencePurity": 0.8866795132641165
+	},
+	{
+		"antecedent": [
+			"2",
+			"8",
+			"14"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14428,
+		"antecedentNConsequentSUP  ": 14227,
+		"confidence": 0.9860687551982257,
+		"confidencePurity": 0.8816919771102938
+	},
+	{
+		"antecedent": [
+			"2",
+			"8",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14469,
+		"antecedentNConsequentSUP  ": 14258,
+		"confidence": 0.9854170986246458,
+		"confidencePurity": 0.877184721955552
+	},
+	{
+		"antecedent": [
+			"2",
+			"8",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12771,
+		"antecedentNConsequentSUP  ": 12454,
+		"confidence": 0.9751781379688357,
+		"confidencePurity": 0.8116227630305908
+	},
+	{
+		"antecedent": [
+			"2",
+			"8",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12752,
+		"antecedentNConsequentSUP  ": 12464,
+		"confidence": 0.9774153074027604,
+		"confidencePurity": 0.8252153979594421
+	},
+	{
+		"antecedent": [
+			"2",
+			"8",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12762,
+		"antecedentNConsequentSUP  ": 12440,
+		"confidence": 0.9747688450086194,
+		"confidencePurity": 0.8091740393685151
+	},
+	{
+		"antecedent": [
+			"2",
+			"8",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12787,
+		"antecedentNConsequentSUP  ": 12464,
+		"confidence": 0.974739970282318,
+		"confidencePurity": 0.8090017175911274
+	},
+	{
+		"antecedent": [
+			"2",
+			"8",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12742,
+		"antecedentNConsequentSUP  ": 12406,
+		"confidence": 0.973630513263224,
+		"confidencePurity": 0.8024227690451915
+	},
+	{
+		"antecedent": [
+			"2",
+			"8",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12881,
+		"antecedentNConsequentSUP  ": 12555,
+		"confidence": 0.9746914059467433,
+		"confidencePurity": 0.8087120171775091
+	},
+	{
+		"antecedent": [
+			"2",
+			"8",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12610,
+		"antecedentNConsequentSUP  ": 12319,
+		"confidence": 0.9769230769230769,
+		"confidencePurity": 0.8221936942380614
+	},
+	{
+		"antecedent": [
+			"2",
+			"8",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12793,
+		"antecedentNConsequentSUP  ": 12496,
+		"confidence": 0.9767841788478074,
+		"confidencePurity": 0.8213442556560613
+	},
+	{
+		"antecedent": [
+			"2",
+			"10",
+			"12"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14521,
+		"antecedentNConsequentSUP  ": 14304,
+		"confidence": 0.9850561256111838,
+		"confidencePurity": 0.8747084433470628
+	},
+	{
+		"antecedent": [
+			"2",
+			"10",
+			"14"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14593,
+		"antecedentNConsequentSUP  ": 14387,
+		"confidence": 0.9858836428424587,
+		"confidencePurity": 0.8804067142532088
+	},
+	{
+		"antecedent": [
+			"2",
+			"10",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14600,
+		"antecedentNConsequentSUP  ": 14385,
+		"confidence": 0.9852739726027397,
+		"confidencePurity": 0.8762011621885106
+	},
+	{
+		"antecedent": [
+			"2",
+			"10",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12853,
+		"antecedentNConsequentSUP  ": 12527,
+		"confidence": 0.9746362716875437,
+		"confidencePurity": 0.8083833183111255
+	},
+	{
+		"antecedent": [
+			"2",
+			"10",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12862,
+		"antecedentNConsequentSUP  ": 12554,
+		"confidence": 0.9760534909034365,
+		"confidencePurity": 0.8168986921353365
+	},
+	{
+		"antecedent": [
+			"2",
+			"10",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12902,
+		"antecedentNConsequentSUP  ": 12582,
+		"confidence": 0.9751976437761587,
+		"confidencePurity": 0.8117397486856205
+	},
+	{
+		"antecedent": [
+			"2",
+			"10",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12852,
+		"antecedentNConsequentSUP  ": 12527,
+		"confidence": 0.9747121070650483,
+		"confidencePurity": 0.8088354858866871
+	},
+	{
+		"antecedent": [
+			"2",
+			"10",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12858,
+		"antecedentNConsequentSUP  ": 12532,
+		"confidence": 0.974646134702131,
+		"confidencePurity": 0.8084421044705978
+	},
+	{
+		"antecedent": [
+			"2",
+			"10",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12940,
+		"antecedentNConsequentSUP  ": 12626,
+		"confidence": 0.9757341576506955,
+		"confidencePurity": 0.8149677992710685
+	},
+	{
+		"antecedent": [
+			"2",
+			"10",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12728,
+		"antecedentNConsequentSUP  ": 12398,
+		"confidence": 0.9740729101194218,
+		"confidencePurity": 0.8050363499207936
+	},
+	{
+		"antecedent": [
+			"2",
+			"10",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12923,
+		"antecedentNConsequentSUP  ": 12610,
+		"confidence": 0.9757796177358199,
+		"confidencePurity": 0.8152422415678359
+	},
+	{
+		"antecedent": [
+			"2",
+			"12",
+			"14"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14523,
+		"antecedentNConsequentSUP  ": 14294,
+		"confidence": 0.9842319080079873,
+		"confidencePurity": 0.8691068737690102
+	},
+	{
+		"antecedent": [
+			"2",
+			"12",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14536,
+		"antecedentNConsequentSUP  ": 14302,
+		"confidence": 0.9839020363236104,
+		"confidencePurity": 0.8668848717297596
+	},
+	{
+		"antecedent": [
+			"2",
+			"12",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12776,
+		"antecedentNConsequentSUP  ": 12454,
+		"confidence": 0.9747964934251722,
+		"confidencePurity": 0.8093390955562002
+	},
+	{
+		"antecedent": [
+			"2",
+			"12",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12800,
+		"antecedentNConsequentSUP  ": 12476,
+		"confidence": 0.9746875,
+		"confidencePurity": 0.808688723991481
+	},
+	{
+		"antecedent": [
+			"2",
+			"12",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12809,
+		"antecedentNConsequentSUP  ": 12488,
+		"confidence": 0.974939495667109,
+		"confidencePurity": 0.8101936220698772
+	},
+	{
+		"antecedent": [
+			"2",
+			"12",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12794,
+		"antecedentNConsequentSUP  ": 12456,
+		"confidence": 0.9735813662654369,
+		"confidencePurity": 0.8021332097811911
+	},
+	{
+		"antecedent": [
+			"2",
+			"12",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12793,
+		"antecedentNConsequentSUP  ": 12498,
+		"confidence": 0.9769405143437817,
+		"confidencePurity": 0.8223004335017713
+	},
+	{
+		"antecedent": [
+			"2",
+			"12",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12727,
+		"antecedentNConsequentSUP  ": 12402,
+		"confidence": 0.9744637385086823,
+		"confidencePurity": 0.8073560338569349
+	},
+	{
+		"antecedent": [
+			"2",
+			"12",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12892,
+		"antecedentNConsequentSUP  ": 12554,
+		"confidence": 0.97378219050574,
+		"confidencePurity": 0.8033173985278773
+	},
+	{
+		"antecedent": [
+			"2",
+			"14",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14605,
+		"antecedentNConsequentSUP  ": 14375,
+		"confidence": 0.984251968503937,
+		"confidencePurity": 0.8692423612956153
+	},
+	{
+		"antecedent": [
+			"2",
+			"14",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12782,
+		"antecedentNConsequentSUP  ": 12443,
+		"confidence": 0.9734783289000156,
+		"confidencePurity": 0.8015266541949974
+	},
+	{
+		"antecedent": [
+			"2",
+			"14",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12929,
+		"antecedentNConsequentSUP  ": 12607,
+		"confidence": 0.9750947482403898,
+		"confidencePurity": 0.8111229295216384
+	},
+	{
+		"antecedent": [
+			"2",
+			"14",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12928,
+		"antecedentNConsequentSUP  ": 12592,
+		"confidence": 0.974009900990099,
+		"confidencePurity": 0.8046633205615191
+	},
+	{
+		"antecedent": [
+			"2",
+			"14",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12927,
+		"antecedentNConsequentSUP  ": 12593,
+		"confidence": 0.9741626053995514,
+		"confidencePurity": 0.805567820648359
+	},
+	{
+		"antecedent": [
+			"2",
+			"16",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12850,
+		"antecedentNConsequentSUP  ": 12508,
+		"confidence": 0.9733852140077821,
+		"confidencePurity": 0.8009791015395054
+	},
+	{
+		"antecedent": [
+			"2",
+			"16",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12913,
+		"antecedentNConsequentSUP  ": 12591,
+		"confidence": 0.9750638891040038,
+		"confidencePurity": 0.8109380823767308
+	},
+	{
+		"antecedent": [
+			"2",
+			"16",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12886,
+		"antecedentNConsequentSUP  ": 12571,
+		"confidence": 0.9755548657457705,
+		"confidencePurity": 0.8138868253120054
+	},
+	{
+		"antecedent": [
+			"2",
+			"16",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12834,
+		"antecedentNConsequentSUP  ": 12499,
+		"confidence": 0.9738974598722144,
+		"confidencePurity": 0.8039982921267095
+	},
+	{
+		"antecedent": [
+			"2",
+			"16",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12987,
+		"antecedentNConsequentSUP  ": 12653,
+		"confidence": 0.9742819742819743,
+		"confidencePurity": 0.8062759438350633
+	},
+	{
+		"antecedent": [
+			"2",
+			"16",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12756,
+		"antecedentNConsequentSUP  ": 12443,
+		"confidence": 0.9754625274380684,
+		"confidencePurity": 0.8133309802405893
+	},
+	{
+		"antecedent": [
+			"3",
+			"5",
+			"7"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14624,
+		"antecedentNConsequentSUP  ": 14384,
+		"confidence": 0.9835886214442013,
+		"confidencePurity": 0.8647839565063966
+	},
+	{
+		"antecedent": [
+			"3",
+			"5",
+			"9"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14557,
+		"antecedentNConsequentSUP  ": 14317,
+		"confidence": 0.9835130864876005,
+		"confidencePurity": 0.8642790940755872
+	},
+	{
+		"antecedent": [
+			"3",
+			"5",
+			"11"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14581,
+		"antecedentNConsequentSUP  ": 14340,
+		"confidence": 0.983471641176874,
+		"confidencePurity": 0.8640023217470657
+	},
+	{
+		"antecedent": [
+			"3",
+			"5",
+			"13"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14572,
+		"antecedentNConsequentSUP  ": 14358,
+		"confidence": 0.9853143013999451,
+		"confidencePurity": 0.8764780719600277
+	},
+	{
+		"antecedent": [
+			"3",
+			"5",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14499,
+		"antecedentNConsequentSUP  ": 14306,
+		"confidence": 0.9866887371542865,
+		"confidencePurity": 0.8860258010007768
+	},
+	{
+		"antecedent": [
+			"3",
+			"5",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12912,
+		"antecedentNConsequentSUP  ": 12571,
+		"confidence": 0.973590458488228,
+		"confidencePurity": 0.8021867665644177
+	},
+	{
+		"antecedent": [
+			"3",
+			"5",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12906,
+		"antecedentNConsequentSUP  ": 12584,
+		"confidence": 0.9750503641717031,
+		"confidencePurity": 0.8108570881743464
+	},
+	{
+		"antecedent": [
+			"3",
+			"5",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12913,
+		"antecedentNConsequentSUP  ": 12591,
+		"confidence": 0.9750638891040038,
+		"confidencePurity": 0.8109380823767308
+	},
+	{
+		"antecedent": [
+			"3",
+			"5",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12949,
+		"antecedentNConsequentSUP  ": 12631,
+		"confidence": 0.9754421190825546,
+		"confidencePurity": 0.8132082088497423
+	},
+	{
+		"antecedent": [
+			"3",
+			"5",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12985,
+		"antecedentNConsequentSUP  ": 12638,
+		"confidence": 0.9732768579129765,
+		"confidencePurity": 0.8003426294652003
+	},
+	{
+		"antecedent": [
+			"3",
+			"7",
+			"9"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14556,
+		"antecedentNConsequentSUP  ": 14304,
+		"confidence": 0.9826875515251443,
+		"confidencePurity": 0.8587977989474711
+	},
+	{
+		"antecedent": [
+			"3",
+			"7",
+			"11"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14547,
+		"antecedentNConsequentSUP  ": 14296,
+		"confidence": 0.9827455832817763,
+		"confidencePurity": 0.859180962939543
+	},
+	{
+		"antecedent": [
+			"3",
+			"7",
+			"13"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14485,
+		"antecedentNConsequentSUP  ": 14263,
+		"confidence": 0.9846738004832586,
+		"confidencePurity": 0.872101118478419
+	},
+	{
+		"antecedent": [
+			"3",
+			"7",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14490,
+		"antecedentNConsequentSUP  ": 14263,
+		"confidence": 0.9843340234644582,
+		"confidencePurity": 0.869796990468231
+	},
+	{
+		"antecedent": [
+			"3",
+			"7",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12946,
+		"antecedentNConsequentSUP  ": 12610,
+		"confidence": 0.9740460373860652,
+		"confidencePurity": 0.8048772247431716
+	},
+	{
+		"antecedent": [
+			"3",
+			"7",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12910,
+		"antecedentNConsequentSUP  ": 12566,
+		"confidence": 0.9733539891556933,
+		"confidencePurity": 0.8007956124468568
+	},
+	{
+		"antecedent": [
+			"3",
+			"7",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12908,
+		"antecedentNConsequentSUP  ": 12563,
+		"confidence": 0.9732723892159901,
+		"confidencePurity": 0.8003163970617667
+	},
+	{
+		"antecedent": [
+			"3",
+			"7",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12884,
+		"antecedentNConsequentSUP  ": 12542,
+		"confidence": 0.9734554486184415,
+		"confidencePurity": 0.8013920570323353
+	},
+	{
+		"antecedent": [
+			"3",
+			"9",
+			"11"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14543,
+		"antecedentNConsequentSUP  ": 14299,
+		"confidence": 0.983222168740975,
+		"confidencePurity": 0.8623399231777406
+	},
+	{
+		"antecedent": [
+			"3",
+			"9",
+			"13"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14486,
+		"antecedentNConsequentSUP  ": 14255,
+		"confidence": 0.9840535689631368,
+		"confidencePurity": 0.8679042054183942
+	},
+	{
+		"antecedent": [
+			"3",
+			"9",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14480,
+		"antecedentNConsequentSUP  ": 14277,
+		"confidence": 0.9859806629834255,
+		"confidencePurity": 0.8810798475358342
+	},
+	{
+		"antecedent": [
+			"3",
+			"9",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12762,
+		"antecedentNConsequentSUP  ": 12439,
+		"confidence": 0.9746904873844225,
+		"confidencePurity": 0.808706539221369
+	},
+	{
+		"antecedent": [
+			"3",
+			"9",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12776,
+		"antecedentNConsequentSUP  ": 12455,
+		"confidence": 0.9748747651847214,
+		"confidencePurity": 0.8098066453749166
+	},
+	{
+		"antecedent": [
+			"3",
+			"9",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12909,
+		"antecedentNConsequentSUP  ": 12568,
+		"confidence": 0.9735843210163452,
+		"confidencePurity": 0.8021506138414187
+	},
+	{
+		"antecedent": [
+			"3",
+			"9",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12895,
+		"antecedentNConsequentSUP  ": 12576,
+		"confidence": 0.9752617293524622,
+		"confidencePurity": 0.8121242848123738
+	},
+	{
+		"antecedent": [
+			"3",
+			"11",
+			"13"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14488,
+		"antecedentNConsequentSUP  ": 14269,
+		"confidence": 0.9848840419657647,
+		"confidencePurity": 0.8735329494646905
+	},
+	{
+		"antecedent": [
+			"3",
+			"11",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14503,
+		"antecedentNConsequentSUP  ": 14296,
+		"confidence": 0.9857270909467006,
+		"confidencePurity": 0.8793228138401056
+	},
+	{
+		"antecedent": [
+			"3",
+			"11",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12939,
+		"antecedentNConsequentSUP  ": 12610,
+		"confidence": 0.9745729963675709,
+		"confidencePurity": 0.808006336652631
+	},
+	{
+		"antecedent": [
+			"3",
+			"11",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12811,
+		"antecedentNConsequentSUP  ": 12486,
+		"confidence": 0.9746311763328389,
+		"confidencePurity": 0.808352951226763
+	},
+	{
+		"antecedent": [
+			"3",
+			"11",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12791,
+		"antecedentNConsequentSUP  ": 12467,
+		"confidence": 0.9746696896255179,
+		"confidencePurity": 0.8085825245493488
+	},
+	{
+		"antecedent": [
+			"3",
+			"11",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12887,
+		"antecedentNConsequentSUP  ": 12573,
+		"confidence": 0.9756343602079615,
+		"confidencePurity": 0.8143658304816611
+	},
+	{
+		"antecedent": [
+			"3",
+			"11",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12810,
+		"antecedentNConsequentSUP  ": 12528,
+		"confidence": 0.9779859484777518,
+		"confidencePurity": 0.8287411425948357
+	},
+	{
+		"antecedent": [
+			"3",
+			"11",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12903,
+		"antecedentNConsequentSUP  ": 12574,
+		"confidence": 0.9745020537859412,
+		"confidencePurity": 0.8075839951735247
+	},
+	{
+		"antecedent": [
+			"3",
+			"11",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12890,
+		"antecedentNConsequentSUP  ": 12564,
+		"confidence": 0.9747090768037238,
+		"confidencePurity": 0.8088174105393346
+	},
+	{
+		"antecedent": [
+			"3",
+			"13",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14435,
+		"antecedentNConsequentSUP  ": 14241,
+		"confidence": 0.9865604433668168,
+		"confidencePurity": 0.8851252504109489
+	},
+	{
+		"antecedent": [
+			"3",
+			"13",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12860,
+		"antecedentNConsequentSUP  ": 12546,
+		"confidence": 0.9755832037325038,
+		"confidencePurity": 0.814057529320367
+	},
+	{
+		"antecedent": [
+			"3",
+			"13",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12843,
+		"antecedentNConsequentSUP  ": 12540,
+		"confidence": 0.9764073814529316,
+		"confidencePurity": 0.8190469955621517
+	},
+	{
+		"antecedent": [
+			"3",
+			"13",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12780,
+		"antecedentNConsequentSUP  ": 12473,
+		"confidence": 0.9759780907668232,
+		"confidencePurity": 0.8164421254806947
+	},
+	{
+		"antecedent": [
+			"3",
+			"13",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12826,
+		"antecedentNConsequentSUP  ": 12496,
+		"confidence": 0.9742710120068611,
+		"confidencePurity": 0.8062108736374461
+	},
+	{
+		"antecedent": [
+			"3",
+			"13",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12840,
+		"antecedentNConsequentSUP  ": 12503,
+		"confidence": 0.9737538940809969,
+		"confidencePurity": 0.8031503852599085
+	},
+	{
+		"antecedent": [
+			"3",
+			"13",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12791,
+		"antecedentNConsequentSUP  ": 12494,
+		"confidence": 0.9767805488233915,
+		"confidencePurity": 0.8213220749480014
+	},
+	{
+		"antecedent": [
+			"3",
+			"13",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12886,
+		"antecedentNConsequentSUP  ": 12559,
+		"confidence": 0.9746236225360857,
+		"confidencePurity": 0.8083079356408304
+	},
+	{
+		"antecedent": [
+			"3",
+			"13",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12894,
+		"antecedentNConsequentSUP  ": 12562,
+		"confidence": 0.9742515898867691,
+		"confidencePurity": 0.8060956068783369
+	},
+	{
+		"antecedent": [
+			"3",
+			"15",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12910,
+		"antecedentNConsequentSUP  ": 12601,
+		"confidence": 0.9760650658404337,
+		"confidencePurity": 0.816968816952024
+	},
+	{
+		"antecedent": [
+			"3",
+			"15",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12853,
+		"antecedentNConsequentSUP  ": 12529,
+		"confidence": 0.9747918773827122,
+		"confidencePurity": 0.8093115349917452
+	},
+	{
+		"antecedent": [
+			"3",
+			"15",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12732,
+		"antecedentNConsequentSUP  ": 12434,
+		"confidence": 0.9765944077913917,
+		"confidencePurity": 0.8201859736493994
+	},
+	{
+		"antecedent": [
+			"3",
+			"15",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12718,
+		"antecedentNConsequentSUP  ": 12413,
+		"confidence": 0.976018241861928,
+		"confidencePurity": 0.816685200252477
+	},
+	{
+		"antecedent": [
+			"3",
+			"15",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12821,
+		"antecedentNConsequentSUP  ": 12512,
+		"confidence": 0.975898915841198,
+		"confidencePurity": 0.8159631344297963
+	},
+	{
+		"antecedent": [
+			"3",
+			"15",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12768,
+		"antecedentNConsequentSUP  ": 12472,
+		"confidence": 0.9768170426065163,
+		"confidencePurity": 0.821545108369986
+	},
+	{
+		"antecedent": [
+			"3",
+			"15",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12797,
+		"antecedentNConsequentSUP  ": 12465,
+		"confidence": 0.974056419473314,
+		"confidencePurity": 0.8049386959547977
+	},
+	{
+		"antecedent": [
+			"3",
+			"15",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12862,
+		"antecedentNConsequentSUP  ": 12541,
+		"confidence": 0.9750427616233868,
+		"confidencePurity": 0.810811565725846
+	},
+	{
+		"antecedent": [
+			"4",
+			"6",
+			"8"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14407,
+		"antecedentNConsequentSUP  ": 14171,
+		"confidence": 0.9836190740612203,
+		"confidencePurity": 0.8649876572614269
+	},
+	{
+		"antecedent": [
+			"4",
+			"6",
+			"10"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14504,
+		"antecedentNConsequentSUP  ": 14301,
+		"confidence": 0.986003861003861,
+		"confidencePurity": 0.8812409575553283
+	},
+	{
+		"antecedent": [
+			"4",
+			"6",
+			"12"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14434,
+		"antecedentNConsequentSUP  ": 14213,
+		"confidence": 0.9846889289178329,
+		"confidencePurity": 0.872203991979348
+	},
+	{
+		"antecedent": [
+			"4",
+			"6",
+			"14"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14514,
+		"antecedentNConsequentSUP  ": 14297,
+		"confidence": 0.985048918285793,
+		"confidencePurity": 0.8746591461990952
+	},
+	{
+		"antecedent": [
+			"4",
+			"6",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14436,
+		"antecedentNConsequentSUP  ": 14221,
+		"confidence": 0.9851066777500693,
+		"confidencePurity": 0.8750543719870236
+	},
+	{
+		"antecedent": [
+			"4",
+			"6",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12790,
+		"antecedentNConsequentSUP  ": 12465,
+		"confidence": 0.9745895230648944,
+		"confidencePurity": 0.8081047733922927
+	},
+	{
+		"antecedent": [
+			"4",
+			"6",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12860,
+		"antecedentNConsequentSUP  ": 12531,
+		"confidence": 0.9744167962674961,
+		"confidencePurity": 0.8070768794559599
+	},
+	{
+		"antecedent": [
+			"4",
+			"6",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12774,
+		"antecedentNConsequentSUP  ": 12434,
+		"confidence": 0.9733834351025521,
+		"confidencePurity": 0.8009686463255042
+	},
+	{
+		"antecedent": [
+			"4",
+			"6",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12803,
+		"antecedentNConsequentSUP  ": 12477,
+		"confidence": 0.9745372178395688,
+		"confidencePurity": 0.8077932945845702
+	},
+	{
+		"antecedent": [
+			"4",
+			"6",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12736,
+		"antecedentNConsequentSUP  ": 12395,
+		"confidence": 0.9732255025125628,
+		"confidencePurity": 0.8000412374624579
+	},
+	{
+		"antecedent": [
+			"4",
+			"6",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12883,
+		"antecedentNConsequentSUP  ": 12583,
+		"confidence": 0.9767134984087558,
+		"confidencePurity": 0.8209125463164791
+	},
+	{
+		"antecedent": [
+			"4",
+			"6",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12843,
+		"antecedentNConsequentSUP  ": 12511,
+		"confidence": 0.9741493420540372,
+		"confidencePurity": 0.8054891978815181
+	},
+	{
+		"antecedent": [
+			"4",
+			"8",
+			"10"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14616,
+		"antecedentNConsequentSUP  ": 14391,
+		"confidence": 0.9846059113300493,
+		"confidencePurity": 0.8716397703818218
+	},
+	{
+		"antecedent": [
+			"4",
+			"8",
+			"12"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14444,
+		"antecedentNConsequentSUP  ": 14223,
+		"confidence": 0.9846995292162836,
+		"confidencePurity": 0.8722760885971748
+	},
+	{
+		"antecedent": [
+			"4",
+			"8",
+			"14"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14478,
+		"antecedentNConsequentSUP  ": 14265,
+		"confidence": 0.9852880232076253,
+		"confidencePurity": 0.8762976175612791
+	},
+	{
+		"antecedent": [
+			"4",
+			"8",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14494,
+		"antecedentNConsequentSUP  ": 14255,
+		"confidence": 0.983510418104043,
+		"confidencePurity": 0.8642612694418635
+	},
+	{
+		"antecedent": [
+			"4",
+			"8",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12890,
+		"antecedentNConsequentSUP  ": 12556,
+		"confidence": 0.974088440651668,
+		"confidencePurity": 0.8051283347420425
+	},
+	{
+		"antecedent": [
+			"4",
+			"8",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12857,
+		"antecedentNConsequentSUP  ": 12533,
+		"confidence": 0.9747997199968889,
+		"confidencePurity": 0.8093583609978842
+	},
+	{
+		"antecedent": [
+			"4",
+			"8",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12790,
+		"antecedentNConsequentSUP  ": 12461,
+		"confidence": 0.9742767787333855,
+		"confidencePurity": 0.8062451029464356
+	},
+	{
+		"antecedent": [
+			"4",
+			"8",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12861,
+		"antecedentNConsequentSUP  ": 12521,
+		"confidence": 0.9735634865096027,
+		"confidencePurity": 0.8020279066332959
+	},
+	{
+		"antecedent": [
+			"4",
+			"8",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12737,
+		"antecedentNConsequentSUP  ": 12406,
+		"confidence": 0.9740127188505927,
+		"confidencePurity": 0.8046799973821013
+	},
+	{
+		"antecedent": [
+			"4",
+			"8",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12879,
+		"antecedentNConsequentSUP  ": 12570,
+		"confidence": 0.9760074539948754,
+		"confidencePurity": 0.8166198792793784
+	},
+	{
+		"antecedent": [
+			"4",
+			"8",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12848,
+		"antecedentNConsequentSUP  ": 12516,
+		"confidence": 0.974159402241594,
+		"confidencePurity": 0.8055488318261951
+	},
+	{
+		"antecedent": [
+			"4",
+			"10",
+			"12"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14593,
+		"antecedentNConsequentSUP  ": 14351,
+		"confidence": 0.9834167066401699,
+		"confidencePurity": 0.8636357304083853
+	},
+	{
+		"antecedent": [
+			"4",
+			"10",
+			"14"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14626,
+		"antecedentNConsequentSUP  ": 14416,
+		"confidence": 0.9856420073841105,
+		"confidencePurity": 0.8787348970005022
+	},
+	{
+		"antecedent": [
+			"4",
+			"10",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14657,
+		"antecedentNConsequentSUP  ": 14423,
+		"confidence": 0.9840349321143481,
+		"confidencePurity": 0.8677787122220394
+	},
+	{
+		"antecedent": [
+			"4",
+			"10",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12947,
+		"antecedentNConsequentSUP  ": 12612,
+		"confidence": 0.974125279987642,
+		"confidencePurity": 0.8053465919673375
+	},
+	{
+		"antecedent": [
+			"4",
+			"10",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12954,
+		"antecedentNConsequentSUP  ": 12608,
+		"confidence": 0.973290103442952,
+		"confidencePurity": 0.8004203916924079
+	},
+	{
+		"antecedent": [
+			"4",
+			"10",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12854,
+		"antecedentNConsequentSUP  ": 12522,
+		"confidence": 0.9741714641356776,
+		"confidencePurity": 0.8056203401668718
+	},
+	{
+		"antecedent": [
+			"4",
+			"10",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12992,
+		"antecedentNConsequentSUP  ": 12652,
+		"confidence": 0.9738300492610837,
+		"confidencePurity": 0.803599993354224
+	},
+	{
+		"antecedent": [
+			"4",
+			"10",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12801,
+		"antecedentNConsequentSUP  ": 12463,
+		"confidence": 0.9735958128271229,
+		"confidencePurity": 0.8022183082504395
+	},
+	{
+		"antecedent": [
+			"4",
+			"12",
+			"14"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14535,
+		"antecedentNConsequentSUP  ": 14307,
+		"confidence": 0.984313725490196,
+		"confidencePurity": 0.869659726509825
+	},
+	{
+		"antecedent": [
+			"4",
+			"12",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14507,
+		"antecedentNConsequentSUP  ": 14270,
+		"confidence": 0.9836630592127938,
+		"confidencePurity": 0.8652820421271037
+	},
+	{
+		"antecedent": [
+			"4",
+			"12",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12847,
+		"antecedentNConsequentSUP  ": 12503,
+		"confidence": 0.9732233206195999,
+		"confidencePurity": 0.8000284362329692
+	},
+	{
+		"antecedent": [
+			"4",
+			"12",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12827,
+		"antecedentNConsequentSUP  ": 12493,
+		"confidence": 0.9739611756451235,
+		"confidencePurity": 0.8043750342736173
+	},
+	{
+		"antecedent": [
+			"4",
+			"12",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12822,
+		"antecedentNConsequentSUP  ": 12491,
+		"confidence": 0.9741849945406332,
+		"confidencePurity": 0.8057005659859339
+	},
+	{
+		"antecedent": [
+			"4",
+			"12",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12768,
+		"antecedentNConsequentSUP  ": 12442,
+		"confidence": 0.9744674185463659,
+		"confidencePurity": 0.8073779244082963
+	},
+	{
+		"antecedent": [
+			"4",
+			"12",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12735,
+		"antecedentNConsequentSUP  ": 12396,
+		"confidence": 0.9733804475853945,
+		"confidencePurity": 0.8009510881595885
+	},
+	{
+		"antecedent": [
+			"4",
+			"12",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12890,
+		"antecedentNConsequentSUP  ": 12551,
+		"confidence": 0.973700543056633,
+		"confidencePurity": 0.8028356352547454
+	},
+	{
+		"antecedent": [
+			"4",
+			"14",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14535,
+		"antecedentNConsequentSUP  ": 14311,
+		"confidence": 0.9845889232886137,
+		"confidencePurity": 0.8715244025980944
+	},
+	{
+		"antecedent": [
+			"4",
+			"14",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12809,
+		"antecedentNConsequentSUP  ": 12490,
+		"confidence": 0.9750956358810211,
+		"confidencePurity": 0.8111282474803685
+	},
+	{
+		"antecedent": [
+			"4",
+			"14",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12974,
+		"antecedentNConsequentSUP  ": 12643,
+		"confidence": 0.9744874364112841,
+		"confidencePurity": 0.8074970157443451
+	},
+	{
+		"antecedent": [
+			"4",
+			"14",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12860,
+		"antecedentNConsequentSUP  ": 12559,
+		"confidence": 0.9765940902021772,
+		"confidencePurity": 0.8201840374104077
+	},
+	{
+		"antecedent": [
+			"4",
+			"14",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12885,
+		"antecedentNConsequentSUP  ": 12547,
+		"confidence": 0.973767947225456,
+		"confidencePurity": 0.8032333242290527
+	},
+	{
+		"antecedent": [
+			"4",
+			"14",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12886,
+		"antecedentNConsequentSUP  ": 12564,
+		"confidence": 0.975011640540121,
+		"confidencePurity": 0.8106252604662855
+	},
+	{
+		"antecedent": [
+			"4",
+			"14",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12961,
+		"antecedentNConsequentSUP  ": 12615,
+		"confidence": 0.97330452897153,
+		"confidencePurity": 0.8005050943394627
+	},
+	{
+		"antecedent": [
+			"4",
+			"14",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12876,
+		"antecedentNConsequentSUP  ": 12559,
+		"confidence": 0.9753805529667599,
+		"confidencePurity": 0.8128380179769905
+	},
+	{
+		"antecedent": [
+			"4",
+			"16",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12862,
+		"antecedentNConsequentSUP  ": 12529,
+		"confidence": 0.9741097807494946,
+		"confidencePurity": 0.8052547547000071
+	},
+	{
+		"antecedent": [
+			"4",
+			"16",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12920,
+		"antecedentNConsequentSUP  ": 12574,
+		"confidence": 0.9732198142414861,
+		"confidencePurity": 0.8000078648512615
+	},
+	{
+		"antecedent": [
+			"4",
+			"16",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12865,
+		"antecedentNConsequentSUP  ": 12521,
+		"confidence": 0.9732607850757871,
+		"confidencePurity": 0.8002482837675728
+	},
+	{
+		"antecedent": [
+			"4",
+			"16",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12757,
+		"antecedentNConsequentSUP  ": 12416,
+		"confidence": 0.9732695774868699,
+		"confidencePurity": 0.800299892145568
+	},
+	{
+		"antecedent": [
+			"4",
+			"16",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12963,
+		"antecedentNConsequentSUP  ": 12633,
+		"confidence": 0.9745429298773433,
+		"confidencePurity": 0.807827300954429
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"9"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14623,
+		"antecedentNConsequentSUP  ": 14371,
+		"confidence": 0.9827668741024413,
+		"confidencePurity": 0.8593216194037944
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"11"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14673,
+		"antecedentNConsequentSUP  ": 14431,
+		"confidence": 0.9835071219246234,
+		"confidencePurity": 0.8642392521474123
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"13"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14673,
+		"antecedentNConsequentSUP  ": 14453,
+		"confidence": 0.9850064744769305,
+		"confidencePurity": 0.8743689505120447
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14602,
+		"antecedentNConsequentSUP  ": 14369,
+		"confidence": 0.9840432817422271,
+		"confidencePurity": 0.867834930932291
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 13013,
+		"antecedentNConsequentSUP  ": 12680,
+		"confidence": 0.974410205179436,
+		"confidencePurity": 0.8070376956220235
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12997,
+		"antecedentNConsequentSUP  ": 12670,
+		"confidence": 0.9748403477725629,
+		"confidencePurity": 0.8096010046057742
+	},
+	{
+		"antecedent": [
+			"5",
+			"9",
+			"11"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14567,
+		"antecedentNConsequentSUP  ": 14310,
+		"confidence": 0.9823573831262442,
+		"confidencePurity": 0.8566238676629574
+	},
+	{
+		"antecedent": [
+			"5",
+			"9",
+			"13"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14573,
+		"antecedentNConsequentSUP  ": 14337,
+		"confidence": 0.9838056680161943,
+		"confidencePurity": 0.8662378324259341
+	},
+	{
+		"antecedent": [
+			"5",
+			"9",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14505,
+		"antecedentNConsequentSUP  ": 14294,
+		"confidence": 0.9854532919682868,
+		"confidencePurity": 0.8774338017267662
+	},
+	{
+		"antecedent": [
+			"5",
+			"9",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 13004,
+		"antecedentNConsequentSUP  ": 12656,
+		"confidence": 0.9732390033835743,
+		"confidencePurity": 0.8001204542682462
+	},
+	{
+		"antecedent": [
+			"5",
+			"9",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12881,
+		"antecedentNConsequentSUP  ": 12554,
+		"confidence": 0.9746137722226536,
+		"confidencePurity": 0.8082492401239765
+	},
+	{
+		"antecedent": [
+			"5",
+			"9",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12818,
+		"antecedentNConsequentSUP  ": 12491,
+		"confidence": 0.9744889998439694,
+		"confidencePurity": 0.807506318131478
+	},
+	{
+		"antecedent": [
+			"5",
+			"9",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12883,
+		"antecedentNConsequentSUP  ": 12566,
+		"confidence": 0.9753939299852519,
+		"confidencePurity": 0.8129184303166771
+	},
+	{
+		"antecedent": [
+			"5",
+			"9",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12868,
+		"antecedentNConsequentSUP  ": 12546,
+		"confidence": 0.9749766863537457,
+		"confidencePurity": 0.8104160873485645
+	},
+	{
+		"antecedent": [
+			"5",
+			"9",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12915,
+		"antecedentNConsequentSUP  ": 12597,
+		"confidence": 0.9753774680603949,
+		"confidencePurity": 0.8128194756519247
+	},
+	{
+		"antecedent": [
+			"5",
+			"9",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12893,
+		"antecedentNConsequentSUP  ": 12563,
+		"confidence": 0.9744047157372218,
+		"confidencePurity": 0.8070050632593886
+	},
+	{
+		"antecedent": [
+			"5",
+			"11",
+			"13"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14633,
+		"antecedentNConsequentSUP  ": 14395,
+		"confidence": 0.9837353926057542,
+		"confidencePurity": 0.8657665782419302
+	},
+	{
+		"antecedent": [
+			"5",
+			"11",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14558,
+		"antecedentNConsequentSUP  ": 14353,
+		"confidence": 0.9859183953839813,
+		"confidencePurity": 0.8806477058986867
+	},
+	{
+		"antecedent": [
+			"5",
+			"11",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12966,
+		"antecedentNConsequentSUP  ": 12621,
+		"confidence": 0.9733919481721425,
+		"confidencePurity": 0.8010186823008077
+	},
+	{
+		"antecedent": [
+			"5",
+			"11",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12904,
+		"antecedentNConsequentSUP  ": 12571,
+		"confidence": 0.9741940483570986,
+		"confidencePurity": 0.8057542555567704
+	},
+	{
+		"antecedent": [
+			"5",
+			"11",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12903,
+		"antecedentNConsequentSUP  ": 12573,
+		"confidence": 0.9744245524296675,
+		"confidencePurity": 0.8071229933449245
+	},
+	{
+		"antecedent": [
+			"5",
+			"13",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14561,
+		"antecedentNConsequentSUP  ": 14357,
+		"confidence": 0.9859899732161252,
+		"confidencePurity": 0.8811444995570782
+	},
+	{
+		"antecedent": [
+			"5",
+			"13",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12982,
+		"antecedentNConsequentSUP  ": 12659,
+		"confidence": 0.9751193960868896,
+		"confidencePurity": 0.8112706177166973
+	},
+	{
+		"antecedent": [
+			"5",
+			"13",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12960,
+		"antecedentNConsequentSUP  ": 12617,
+		"confidence": 0.973533950617284,
+		"confidencePurity": 0.8018539999504347
+	},
+	{
+		"antecedent": [
+			"5",
+			"13",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12931,
+		"antecedentNConsequentSUP  ": 12608,
+		"confidence": 0.975021266723378,
+		"confidencePurity": 0.8106828802002007
+	},
+	{
+		"antecedent": [
+			"5",
+			"13",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 13000,
+		"antecedentNConsequentSUP  ": 12657,
+		"confidence": 0.9736153846153847,
+		"confidencePurity": 0.8023336188764323
+	},
+	{
+		"antecedent": [
+			"5",
+			"13",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12991,
+		"antecedentNConsequentSUP  ": 12648,
+		"confidence": 0.9735971056885536,
+		"confidencePurity": 0.8022259246017068
+	},
+	{
+		"antecedent": [
+			"5",
+			"15",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12967,
+		"antecedentNConsequentSUP  ": 12654,
+		"confidence": 0.9758618030384824,
+		"confidencePurity": 0.8157387623532953
+	},
+	{
+		"antecedent": [
+			"5",
+			"15",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12889,
+		"antecedentNConsequentSUP  ": 12567,
+		"confidence": 0.9750174567460625,
+		"confidencePurity": 0.8106600739477157
+	},
+	{
+		"antecedent": [
+			"5",
+			"15",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12910,
+		"antecedentNConsequentSUP  ": 12584,
+		"confidence": 0.9747482571649884,
+		"confidencePurity": 0.8090511671901242
+	},
+	{
+		"antecedent": [
+			"5",
+			"15",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12786,
+		"antecedentNConsequentSUP  ": 12487,
+		"confidence": 0.9766150477084311,
+		"confidencePurity": 0.8203118242292394
+	},
+	{
+		"antecedent": [
+			"5",
+			"15",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12862,
+		"antecedentNConsequentSUP  ": 12538,
+		"confidence": 0.9748095164049136,
+		"confidencePurity": 0.8094168584059828
+	},
+	{
+		"antecedent": [
+			"5",
+			"15",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12849,
+		"antecedentNConsequentSUP  ": 12512,
+		"confidence": 0.9737722779982878,
+		"confidencePurity": 0.8032588862256967
+	},
+	{
+		"antecedent": [
+			"5",
+			"15",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12870,
+		"antecedentNConsequentSUP  ": 12540,
+		"confidence": 0.9743589743589743,
+		"confidencePurity": 0.8067332288354276
+	},
+	{
+		"antecedent": [
+			"5",
+			"15",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12935,
+		"antecedentNConsequentSUP  ": 12613,
+		"confidence": 0.9751063007344415,
+		"confidencePurity": 0.8111921460842365
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"10"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14477,
+		"antecedentNConsequentSUP  ": 14271,
+		"confidence": 0.9857705325689023,
+		"confidencePurity": 0.8796233060609654
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"12"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14393,
+		"antecedentNConsequentSUP  ": 14209,
+		"confidence": 0.9872160077815605,
+		"confidencePurity": 0.8897480208337484
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"14"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14467,
+		"antecedentNConsequentSUP  ": 14248,
+		"confidence": 0.984862099951614,
+		"confidencePurity": 0.8733832942912876
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14435,
+		"antecedentNConsequentSUP  ": 14189,
+		"confidence": 0.9829580879806027,
+		"confidencePurity": 0.8605868055524054
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12800,
+		"antecedentNConsequentSUP  ": 12478,
+		"confidence": 0.97484375,
+		"confidencePurity": 0.8096213290079285
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12665,
+		"antecedentNConsequentSUP  ": 12326,
+		"confidence": 0.9732333201737071,
+		"confidencePurity": 0.8000871064193237
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12841,
+		"antecedentNConsequentSUP  ": 12525,
+		"confidence": 0.9753913246631882,
+		"confidencePurity": 0.8129027681540779
+	},
+	{
+		"antecedent": [
+			"6",
+			"10",
+			"12"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14510,
+		"antecedentNConsequentSUP  ": 14308,
+		"confidence": 0.986078566505858,
+		"confidencePurity": 0.8817602088446743
+	},
+	{
+		"antecedent": [
+			"6",
+			"10",
+			"14"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14582,
+		"antecedentNConsequentSUP  ": 14385,
+		"confidence": 0.9864901933891098,
+		"confidencePurity": 0.8846329710646708
+	},
+	{
+		"antecedent": [
+			"6",
+			"10",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14551,
+		"antecedentNConsequentSUP  ": 14348,
+		"confidence": 0.9860490687925229,
+		"confidencePurity": 0.881555103647096
+	},
+	{
+		"antecedent": [
+			"6",
+			"10",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12805,
+		"antecedentNConsequentSUP  ": 12503,
+		"confidence": 0.976415462709879,
+		"confidencePurity": 0.819096157774754
+	},
+	{
+		"antecedent": [
+			"6",
+			"10",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12892,
+		"antecedentNConsequentSUP  ": 12577,
+		"confidence": 0.975566242631089,
+		"confidencePurity": 0.8139553513300557
+	},
+	{
+		"antecedent": [
+			"6",
+			"10",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12833,
+		"antecedentNConsequentSUP  ": 12492,
+		"confidence": 0.9734278812436686,
+		"confidencePurity": 0.8012299322608682
+	},
+	{
+		"antecedent": [
+			"6",
+			"10",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12831,
+		"antecedentNConsequentSUP  ": 12531,
+		"confidence": 0.9766191255552957,
+		"confidencePurity": 0.8203366922919509
+	},
+	{
+		"antecedent": [
+			"6",
+			"10",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12809,
+		"antecedentNConsequentSUP  ": 12488,
+		"confidence": 0.974939495667109,
+		"confidencePurity": 0.8101936220698772
+	},
+	{
+		"antecedent": [
+			"6",
+			"10",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12956,
+		"antecedentNConsequentSUP  ": 12637,
+		"confidence": 0.97537820314912,
+		"confidencePurity": 0.812823893960969
+	},
+	{
+		"antecedent": [
+			"6",
+			"10",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12692,
+		"antecedentNConsequentSUP  ": 12390,
+		"confidence": 0.9762054837693035,
+		"confidencePurity": 0.8178202740603964
+	},
+	{
+		"antecedent": [
+			"6",
+			"10",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12898,
+		"antecedentNConsequentSUP  ": 12592,
+		"confidence": 0.9762753915335711,
+		"confidencePurity": 0.8182447002886392
+	},
+	{
+		"antecedent": [
+			"6",
+			"12",
+			"14"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14580,
+		"antecedentNConsequentSUP  ": 14359,
+		"confidence": 0.9848422496570645,
+		"confidencePurity": 0.8732479501900529
+	},
+	{
+		"antecedent": [
+			"6",
+			"12",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14518,
+		"antecedentNConsequentSUP  ": 14302,
+		"confidence": 0.9851219176195068,
+		"confidencePurity": 0.8751587131075512
+	},
+	{
+		"antecedent": [
+			"6",
+			"12",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12745,
+		"antecedentNConsequentSUP  ": 12440,
+		"confidence": 0.9760690466849745,
+		"confidencePurity": 0.8169929364291468
+	},
+	{
+		"antecedent": [
+			"6",
+			"12",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12816,
+		"antecedentNConsequentSUP  ": 12515,
+		"confidence": 0.9765137328339576,
+		"confidencePurity": 0.8196943589104051
+	},
+	{
+		"antecedent": [
+			"6",
+			"12",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12765,
+		"antecedentNConsequentSUP  ": 12425,
+		"confidence": 0.9733646690168429,
+		"confidencePurity": 0.8008583642858218
+	},
+	{
+		"antecedent": [
+			"6",
+			"12",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12836,
+		"antecedentNConsequentSUP  ": 12534,
+		"confidence": 0.9764724213150514,
+		"confidencePurity": 0.8194427979340122
+	},
+	{
+		"antecedent": [
+			"6",
+			"12",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12740,
+		"antecedentNConsequentSUP  ": 12430,
+		"confidence": 0.9756671899529042,
+		"confidencePurity": 0.8145637794999997
+	},
+	{
+		"antecedent": [
+			"6",
+			"12",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12889,
+		"antecedentNConsequentSUP  ": 12569,
+		"confidence": 0.975172627822174,
+		"confidencePurity": 0.8115897207824809
+	},
+	{
+		"antecedent": [
+			"6",
+			"12",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12701,
+		"antecedentNConsequentSUP  ": 12398,
+		"confidence": 0.9761436107393119,
+		"confidencePurity": 0.8174449194701873
+	},
+	{
+		"antecedent": [
+			"6",
+			"12",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12856,
+		"antecedentNConsequentSUP  ": 12531,
+		"confidence": 0.9747199751088985,
+		"confidencePurity": 0.8088824212469877
+	},
+	{
+		"antecedent": [
+			"6",
+			"14",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14577,
+		"antecedentNConsequentSUP  ": 14335,
+		"confidence": 0.98339850449338,
+		"confidencePurity": 0.8635143289097229
+	},
+	{
+		"antecedent": [
+			"6",
+			"14",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12975,
+		"antecedentNConsequentSUP  ": 12645,
+		"confidence": 0.9745664739884393,
+		"confidencePurity": 0.8079674929465943
+	},
+	{
+		"antecedent": [
+			"6",
+			"14",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12807,
+		"antecedentNConsequentSUP  ": 12488,
+		"confidence": 0.9750917467010228,
+		"confidencePurity": 0.8111049473484686
+	},
+	{
+		"antecedent": [
+			"6",
+			"14",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12906,
+		"antecedentNConsequentSUP  ": 12573,
+		"confidence": 0.9741980474198048,
+		"confidencePurity": 0.8057779719250672
+	},
+	{
+		"antecedent": [
+			"6",
+			"14",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12993,
+		"antecedentNConsequentSUP  ": 12656,
+		"confidence": 0.9740629569768336,
+		"confidencePurity": 0.804977407457399
+	},
+	{
+		"antecedent": [
+			"6",
+			"16",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12788,
+		"antecedentNConsequentSUP  ": 12452,
+		"confidence": 0.9737253675320613,
+		"confidencePurity": 0.8029820667368731
+	},
+	{
+		"antecedent": [
+			"6",
+			"16",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12878,
+		"antecedentNConsequentSUP  ": 12577,
+		"confidence": 0.9766268054045659,
+		"confidencePurity": 0.8203835298322377
+	},
+	{
+		"antecedent": [
+			"6",
+			"16",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12752,
+		"antecedentNConsequentSUP  ": 12440,
+		"confidence": 0.9755332496863237,
+		"confidencePurity": 0.8137566508492492
+	},
+	{
+		"antecedent": [
+			"6",
+			"16",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12849,
+		"antecedentNConsequentSUP  ": 12523,
+		"confidence": 0.9746283757490856,
+		"confidencePurity": 0.8083362611686613
+	},
+	{
+		"antecedent": [
+			"6",
+			"16",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12718,
+		"antecedentNConsequentSUP  ": 12390,
+		"confidence": 0.9742097814121717,
+		"confidencePurity": 0.8058475662812252
+	},
+	{
+		"antecedent": [
+			"6",
+			"16",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12930,
+		"antecedentNConsequentSUP  ": 12618,
+		"confidence": 0.9758700696055684,
+		"confidencePurity": 0.8157887309573241
+	},
+	{
+		"antecedent": [
+			"6",
+			"16",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12679,
+		"antecedentNConsequentSUP  ": 12354,
+		"confidence": 0.9743670636485527,
+		"confidencePurity": 0.8067812921451988
+	},
+	{
+		"antecedent": [
+			"6",
+			"16",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12905,
+		"antecedentNConsequentSUP  ": 12565,
+		"confidence": 0.9736536226268888,
+		"confidencePurity": 0.8025589767905803
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"11"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14547,
+		"antecedentNConsequentSUP  ": 14307,
+		"confidence": 0.9835017529387503,
+		"confidencePurity": 0.8642033915595411
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"13"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14516,
+		"antecedentNConsequentSUP  ": 14281,
+		"confidence": 0.9838109672085974,
+		"confidencePurity": 0.8662733880382067
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14559,
+		"antecedentNConsequentSUP  ": 14306,
+		"confidence": 0.9826224328593997,
+		"confidencePurity": 0.8583682233204837
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12960,
+		"antecedentNConsequentSUP  ": 12621,
+		"confidence": 0.9738425925925925,
+		"confidencePurity": 0.8036740836382089
+	},
+	{
+		"antecedent": [
+			"7",
+			"11",
+			"13"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14528,
+		"antecedentNConsequentSUP  ": 14302,
+		"confidence": 0.9844438325991189,
+		"confidencePurity": 0.8705403133201309
+	},
+	{
+		"antecedent": [
+			"7",
+			"11",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14552,
+		"antecedentNConsequentSUP  ": 14321,
+		"confidence": 0.9841258933479934,
+		"confidencePurity": 0.8683915463930864
+	},
+	{
+		"antecedent": [
+			"7",
+			"11",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12933,
+		"antecedentNConsequentSUP  ": 12613,
+		"confidence": 0.9752570942550066,
+		"confidencePurity": 0.8120964631000838
+	},
+	{
+		"antecedent": [
+			"7",
+			"11",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12890,
+		"antecedentNConsequentSUP  ": 12549,
+		"confidence": 0.9735453840186191,
+		"confidencePurity": 0.801921312844738
+	},
+	{
+		"antecedent": [
+			"7",
+			"11",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12866,
+		"antecedentNConsequentSUP  ": 12533,
+		"confidence": 0.9741178299393751,
+		"confidencePurity": 0.8053024463882926
+	},
+	{
+		"antecedent": [
+			"7",
+			"11",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12926,
+		"antecedentNConsequentSUP  ": 12600,
+		"confidence": 0.974779514157512,
+		"confidencePurity": 0.8092377261754423
+	},
+	{
+		"antecedent": [
+			"7",
+			"13",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14513,
+		"antecedentNConsequentSUP  ": 14301,
+		"confidence": 0.9853924068076897,
+		"confidencePurity": 0.8770148783175586
+	},
+	{
+		"antecedent": [
+			"7",
+			"13",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12904,
+		"antecedentNConsequentSUP  ": 12584,
+		"confidence": 0.9752014879107254,
+		"confidencePurity": 0.8117628068845167
+	},
+	{
+		"antecedent": [
+			"7",
+			"13",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12907,
+		"antecedentNConsequentSUP  ": 12568,
+		"confidence": 0.9737351824591307,
+		"confidencePurity": 0.8030399728937482
+	},
+	{
+		"antecedent": [
+			"7",
+			"13",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12868,
+		"antecedentNConsequentSUP  ": 12544,
+		"confidence": 0.9748212620453839,
+		"confidencePurity": 0.8094870038692854
+	},
+	{
+		"antecedent": [
+			"7",
+			"13",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12880,
+		"antecedentNConsequentSUP  ": 12556,
+		"confidence": 0.9748447204968944,
+		"confidencePurity": 0.8096271267565233
+	},
+	{
+		"antecedent": [
+			"7",
+			"13",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12853,
+		"antecedentNConsequentSUP  ": 12533,
+		"confidence": 0.9751030887730491,
+		"confidencePurity": 0.8111729007568109
+	},
+	{
+		"antecedent": [
+			"7",
+			"13",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12866,
+		"antecedentNConsequentSUP  ": 12533,
+		"confidence": 0.9741178299393751,
+		"confidencePurity": 0.8053024463882926
+	},
+	{
+		"antecedent": [
+			"7",
+			"15",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12990,
+		"antecedentNConsequentSUP  ": 12652,
+		"confidence": 0.9739799846035412,
+		"confidencePurity": 0.8044863000083023
+	},
+	{
+		"antecedent": [
+			"7",
+			"15",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12910,
+		"antecedentNConsequentSUP  ": 12567,
+		"confidence": 0.973431448489543,
+		"confidencePurity": 0.8012509085986013
+	},
+	{
+		"antecedent": [
+			"7",
+			"15",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12851,
+		"antecedentNConsequentSUP  ": 12518,
+		"confidence": 0.974087619640495,
+		"confidencePurity": 0.8051234716268324
+	},
+	{
+		"antecedent": [
+			"7",
+			"15",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12823,
+		"antecedentNConsequentSUP  ": 12492,
+		"confidence": 0.9741870077205023,
+		"confidencePurity": 0.805712503769848
+	},
+	{
+		"antecedent": [
+			"7",
+			"15",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12884,
+		"antecedentNConsequentSUP  ": 12571,
+		"confidence": 0.9757063023905619,
+		"confidencePurity": 0.8147997088191066
+	},
+	{
+		"antecedent": [
+			"7",
+			"15",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12815,
+		"antecedentNConsequentSUP  ": 12489,
+		"confidence": 0.9745610612563402,
+		"confidencePurity": 0.807935259860592
+	},
+	{
+		"antecedent": [
+			"8",
+			"10",
+			"12"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14581,
+		"antecedentNConsequentSUP  ": 14364,
+		"confidence": 0.985117618819011,
+		"confidencePurity": 0.8751292784240605
+	},
+	{
+		"antecedent": [
+			"8",
+			"10",
+			"14"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14591,
+		"antecedentNConsequentSUP  ": 14381,
+		"confidence": 0.9856075663079981,
+		"confidencePurity": 0.8784971456296597
+	},
+	{
+		"antecedent": [
+			"8",
+			"10",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14621,
+		"antecedentNConsequentSUP  ": 14393,
+		"confidence": 0.9844059913822584,
+		"confidencePurity": 0.8702840154016503
+	},
+	{
+		"antecedent": [
+			"8",
+			"10",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12911,
+		"antecedentNConsequentSUP  ": 12583,
+		"confidence": 0.9745953063279374,
+		"confidencePurity": 0.8081392241533845
+	},
+	{
+		"antecedent": [
+			"8",
+			"10",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12894,
+		"antecedentNConsequentSUP  ": 12572,
+		"confidence": 0.9750271444082519,
+		"confidencePurity": 0.8107180655481091
+	},
+	{
+		"antecedent": [
+			"8",
+			"10",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12897,
+		"antecedentNConsequentSUP  ": 12561,
+		"confidence": 0.9739474296347987,
+		"confidencePurity": 0.8042937335054988
+	},
+	{
+		"antecedent": [
+			"8",
+			"10",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12912,
+		"antecedentNConsequentSUP  ": 12588,
+		"confidence": 0.974907063197026,
+		"confidencePurity": 0.8099996961660983
+	},
+	{
+		"antecedent": [
+			"8",
+			"10",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12822,
+		"antecedentNConsequentSUP  ": 12489,
+		"confidence": 0.9740290126345343,
+		"confidencePurity": 0.8047764384447269
+	},
+	{
+		"antecedent": [
+			"8",
+			"10",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12961,
+		"antecedentNConsequentSUP  ": 12633,
+		"confidence": 0.9746933107013348,
+		"confidencePurity": 0.80872337659068
+	},
+	{
+		"antecedent": [
+			"8",
+			"10",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12781,
+		"antecedentNConsequentSUP  ": 12447,
+		"confidence": 0.9738674595102105,
+		"confidencePurity": 0.8038209967389671
+	},
+	{
+		"antecedent": [
+			"8",
+			"10",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12885,
+		"antecedentNConsequentSUP  ": 12583,
+		"confidence": 0.9765618936748157,
+		"confidencePurity": 0.8199877834514172
+	},
+	{
+		"antecedent": [
+			"8",
+			"12",
+			"14"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14502,
+		"antecedentNConsequentSUP  ": 14284,
+		"confidence": 0.984967590677148,
+		"confidencePurity": 0.8741032664721629
+	},
+	{
+		"antecedent": [
+			"8",
+			"12",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14513,
+		"antecedentNConsequentSUP  ": 14281,
+		"confidence": 0.9840143319782264,
+		"confidencePurity": 0.8676400403474152
+	},
+	{
+		"antecedent": [
+			"8",
+			"12",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12820,
+		"antecedentNConsequentSUP  ": 12487,
+		"confidence": 0.9740249609984399,
+		"confidencePurity": 0.8047524556326965
+	},
+	{
+		"antecedent": [
+			"8",
+			"12",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12795,
+		"antecedentNConsequentSUP  ": 12465,
+		"confidence": 0.9742086752637749,
+		"confidencePurity": 0.8058410053202641
+	},
+	{
+		"antecedent": [
+			"8",
+			"12",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12756,
+		"antecedentNConsequentSUP  ": 12435,
+		"confidence": 0.9748353715898401,
+		"confidencePurity": 0.8095712790434633
+	},
+	{
+		"antecedent": [
+			"8",
+			"12",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12860,
+		"antecedentNConsequentSUP  ": 12529,
+		"confidence": 0.9742612752721618,
+		"confidencePurity": 0.8061530847461679
+	},
+	{
+		"antecedent": [
+			"8",
+			"12",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12734,
+		"antecedentNConsequentSUP  ": 12418,
+		"confidence": 0.9751845453117638,
+		"confidencePurity": 0.8116611880460504
+	},
+	{
+		"antecedent": [
+			"8",
+			"12",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12698,
+		"antecedentNConsequentSUP  ": 12377,
+		"confidence": 0.9747204284139235,
+		"confidencePurity": 0.8088851254817679
+	},
+	{
+		"antecedent": [
+			"8",
+			"12",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12760,
+		"antecedentNConsequentSUP  ": 12462,
+		"confidence": 0.9766457680250784,
+		"confidencePurity": 0.8204991965761673
+	},
+	{
+		"antecedent": [
+			"8",
+			"14",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14515,
+		"antecedentNConsequentSUP  ": 14288,
+		"confidence": 0.984361005856011,
+		"confidencePurity": 0.8699795238099092
+	},
+	{
+		"antecedent": [
+			"8",
+			"14",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12788,
+		"antecedentNConsequentSUP  ": 12462,
+		"confidence": 0.9745073506412262,
+		"confidencePurity": 0.8076155171929895
+	},
+	{
+		"antecedent": [
+			"8",
+			"14",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12822,
+		"antecedentNConsequentSUP  ": 12496,
+		"confidence": 0.9745749493058805,
+		"confidencePurity": 0.8080179678366575
+	},
+	{
+		"antecedent": [
+			"8",
+			"14",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12905,
+		"antecedentNConsequentSUP  ": 12561,
+		"confidence": 0.9733436652460287,
+		"confidencePurity": 0.8007349590738483
+	},
+	{
+		"antecedent": [
+			"8",
+			"14",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12721,
+		"antecedentNConsequentSUP  ": 12386,
+		"confidence": 0.9736655923276472,
+		"confidencePurity": 0.8026295404867468
+	},
+	{
+		"antecedent": [
+			"8",
+			"14",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12794,
+		"antecedentNConsequentSUP  ": 12474,
+		"confidence": 0.9749882757542598,
+		"confidencePurity": 0.8104854314886921
+	},
+	{
+		"antecedent": [
+			"8",
+			"16",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12871,
+		"antecedentNConsequentSUP  ": 12534,
+		"confidence": 0.9738171082277989,
+		"confidencePurity": 0.8035235647576664
+	},
+	{
+		"antecedent": [
+			"8",
+			"16",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12750,
+		"antecedentNConsequentSUP  ": 12411,
+		"confidence": 0.9734117647058823,
+		"confidencePurity": 0.8011351730665445
+	},
+	{
+		"antecedent": [
+			"8",
+			"16",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12970,
+		"antecedentNConsequentSUP  ": 12623,
+		"confidence": 0.9732459521973785,
+		"confidencePurity": 0.8001612312291132
+	},
+	{
+		"antecedent": [
+			"8",
+			"16",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12719,
+		"antecedentNConsequentSUP  ": 12394,
+		"confidence": 0.9744476767041435,
+		"confidencePurity": 0.8072605015011405
+	},
+	{
+		"antecedent": [
+			"9",
+			"11",
+			"13"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14520,
+		"antecedentNConsequentSUP  ": 14288,
+		"confidence": 0.9840220385674932,
+		"confidencePurity": 0.8676919129459231
+	},
+	{
+		"antecedent": [
+			"9",
+			"11",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14542,
+		"antecedentNConsequentSUP  ": 14325,
+		"confidence": 0.9850777059551643,
+		"confidencePurity": 0.8748560837840691
+	},
+	{
+		"antecedent": [
+			"9",
+			"11",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12963,
+		"antecedentNConsequentSUP  ": 12628,
+		"confidence": 0.9741572166936666,
+		"confidencePurity": 0.8055358759461442
+	},
+	{
+		"antecedent": [
+			"9",
+			"11",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12956,
+		"antecedentNConsequentSUP  ": 12639,
+		"confidence": 0.9755325717814141,
+		"confidencePurity": 0.8137525689518987
+	},
+	{
+		"antecedent": [
+			"9",
+			"11",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12794,
+		"antecedentNConsequentSUP  ": 12455,
+		"confidence": 0.973503204627169,
+		"confidencePurity": 0.8016730283935297
+	},
+	{
+		"antecedent": [
+			"9",
+			"11",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12921,
+		"antecedentNConsequentSUP  ": 12583,
+		"confidence": 0.9738410339756984,
+		"confidencePurity": 0.8036648767213637
+	},
+	{
+		"antecedent": [
+			"9",
+			"11",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12877,
+		"antecedentNConsequentSUP  ": 12580,
+		"confidence": 0.9769356216510057,
+		"confidencePurity": 0.8222704817281297
+	},
+	{
+		"antecedent": [
+			"9",
+			"11",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12837,
+		"antecedentNConsequentSUP  ": 12512,
+		"confidence": 0.9746825582301161,
+		"confidencePurity": 0.8086592551311829
+	},
+	{
+		"antecedent": [
+			"9",
+			"13",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14497,
+		"antecedentNConsequentSUP  ": 14282,
+		"confidence": 0.9851693453818031,
+		"confidencePurity": 0.875483593686479
+	},
+	{
+		"antecedent": [
+			"9",
+			"13",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12895,
+		"antecedentNConsequentSUP  ": 12589,
+		"confidence": 0.9762698720434276,
+		"confidencePurity": 0.8182111774860393
+	},
+	{
+		"antecedent": [
+			"9",
+			"13",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12798,
+		"antecedentNConsequentSUP  ": 12462,
+		"confidence": 0.9737458977965308,
+		"confidencePurity": 0.8031031984846768
+	},
+	{
+		"antecedent": [
+			"9",
+			"13",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12814,
+		"antecedentNConsequentSUP  ": 12471,
+		"confidence": 0.9732324020602466,
+		"confidencePurity": 0.8000817193224546
+	},
+	{
+		"antecedent": [
+			"9",
+			"13",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12868,
+		"antecedentNConsequentSUP  ": 12541,
+		"confidence": 0.9745881255828411,
+		"confidencePurity": 0.8080964489624559
+	},
+	{
+		"antecedent": [
+			"9",
+			"13",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12886,
+		"antecedentNConsequentSUP  ": 12550,
+		"confidence": 0.973925190128822,
+		"confidencePurity": 0.8041622243008338
+	},
+	{
+		"antecedent": [
+			"9",
+			"13",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12862,
+		"antecedentNConsequentSUP  ": 12529,
+		"confidence": 0.9741097807494946,
+		"confidencePurity": 0.8052547547000071
+	},
+	{
+		"antecedent": [
+			"9",
+			"15",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12990,
+		"antecedentNConsequentSUP  ": 12660,
+		"confidence": 0.9745958429561201,
+		"confidencePurity": 0.8081424209489045
+	},
+	{
+		"antecedent": [
+			"9",
+			"15",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12934,
+		"antecedentNConsequentSUP  ": 12595,
+		"confidence": 0.9737900108241844,
+		"confidencePurity": 0.8033635654363888
+	},
+	{
+		"antecedent": [
+			"9",
+			"15",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12766,
+		"antecedentNConsequentSUP  ": 12431,
+		"confidence": 0.973758420805264,
+		"confidencePurity": 0.8031770997099015
+	},
+	{
+		"antecedent": [
+			"9",
+			"15",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12729,
+		"antecedentNConsequentSUP  ": 12398,
+		"confidence": 0.9739963862047294,
+		"confidencePurity": 0.80458334387748
+	},
+	{
+		"antecedent": [
+			"9",
+			"15",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12862,
+		"antecedentNConsequentSUP  ": 12528,
+		"confidence": 0.9740320323433369,
+		"confidencePurity": 0.8047943136838323
+	},
+	{
+		"antecedent": [
+			"9",
+			"15",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12799,
+		"antecedentNConsequentSUP  ": 12480,
+		"confidence": 0.9750761778263927,
+		"confidencePurity": 0.8110116843768325
+	},
+	{
+		"antecedent": [
+			"9",
+			"15",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12773,
+		"antecedentNConsequentSUP  ": 12451,
+		"confidence": 0.9747905738667502,
+		"confidencePurity": 0.8093037524748196
+	},
+	{
+		"antecedent": [
+			"9",
+			"15",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12891,
+		"antecedentNConsequentSUP  ": 12555,
+		"confidence": 0.9739353037002559,
+		"confidencePurity": 0.8042220249999692
+	},
+	{
+		"antecedent": [
+			"10",
+			"12",
+			"14"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14640,
+		"antecedentNConsequentSUP  ": 14422,
+		"confidence": 0.9851092896174863,
+		"confidencePurity": 0.8750722525718067
+	},
+	{
+		"antecedent": [
+			"10",
+			"12",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14657,
+		"antecedentNConsequentSUP  ": 14423,
+		"confidence": 0.9840349321143481,
+		"confidencePurity": 0.8677787122220394
+	},
+	{
+		"antecedent": [
+			"10",
+			"12",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12868,
+		"antecedentNConsequentSUP  ": 12535,
+		"confidence": 0.9741218526577556,
+		"confidencePurity": 0.8053262827213072
+	},
+	{
+		"antecedent": [
+			"10",
+			"12",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12852,
+		"antecedentNConsequentSUP  ": 12524,
+		"confidence": 0.9744786803610334,
+		"confidencePurity": 0.8074449204839117
+	},
+	{
+		"antecedent": [
+			"10",
+			"12",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12941,
+		"antecedentNConsequentSUP  ": 12611,
+		"confidence": 0.9744996522679855,
+		"confidencePurity": 0.8075697041637765
+	},
+	{
+		"antecedent": [
+			"10",
+			"12",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12808,
+		"antecedentNConsequentSUP  ": 12477,
+		"confidence": 0.974156777014366,
+		"confidencePurity": 0.8055332695751829
+	},
+	{
+		"antecedent": [
+			"10",
+			"12",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12974,
+		"antecedentNConsequentSUP  ": 12634,
+		"confidence": 0.9737937413288115,
+		"confidencePurity": 0.8033855897181836
+	},
+	{
+		"antecedent": [
+			"10",
+			"14",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14669,
+		"antecedentNConsequentSUP  ": 14452,
+		"confidence": 0.9852068989024474,
+		"confidencePurity": 0.8757410101333081
+	},
+	{
+		"antecedent": [
+			"10",
+			"14",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12870,
+		"antecedentNConsequentSUP  ": 12545,
+		"confidence": 0.9747474747474747,
+		"confidencePurity": 0.8090464981390375
+	},
+	{
+		"antecedent": [
+			"10",
+			"14",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12950,
+		"antecedentNConsequentSUP  ": 12628,
+		"confidence": 0.9751351351351352,
+		"confidencePurity": 0.8113649467983919
+	},
+	{
+		"antecedent": [
+			"10",
+			"14",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12930,
+		"antecedentNConsequentSUP  ": 12630,
+		"confidence": 0.9767981438515081,
+		"confidencePurity": 0.8214295956331573
+	},
+	{
+		"antecedent": [
+			"10",
+			"14",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12923,
+		"antecedentNConsequentSUP  ": 12582,
+		"confidence": 0.973612938172251,
+		"confidencePurity": 0.8023192038640975
+	},
+	{
+		"antecedent": [
+			"10",
+			"14",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12959,
+		"antecedentNConsequentSUP  ": 12641,
+		"confidence": 0.9754610695269696,
+		"confidencePurity": 0.813322208865576
+	},
+	{
+		"antecedent": [
+			"10",
+			"14",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12987,
+		"antecedentNConsequentSUP  ": 12656,
+		"confidence": 0.9745129745129745,
+		"confidencePurity": 0.8076489873749148
+	},
+	{
+		"antecedent": [
+			"10",
+			"14",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12855,
+		"antecedentNConsequentSUP  ": 12518,
+		"confidence": 0.9737845196421626,
+		"confidencePurity": 0.8033311480644235
+	},
+	{
+		"antecedent": [
+			"10",
+			"14",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12946,
+		"antecedentNConsequentSUP  ": 12639,
+		"confidence": 0.9762861115402441,
+		"confidencePurity": 0.8183098148243827
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12930,
+		"antecedentNConsequentSUP  ": 12590,
+		"confidence": 0.9737045630317092,
+		"confidencePurity": 0.8028593450457265
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12956,
+		"antecedentNConsequentSUP  ": 12623,
+		"confidence": 0.9742976227230626,
+		"confidencePurity": 0.8063688441796051
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 13018,
+		"antecedentNConsequentSUP  ": 12685,
+		"confidence": 0.9744200337993547,
+		"confidencePurity": 0.8070961275564643
+	},
+	{
+		"antecedent": [
+			"11",
+			"13",
+			"15"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 14549,
+		"antecedentNConsequentSUP  ": 14333,
+		"confidence": 0.9851536188054162,
+		"confidencePurity": 0.8753758392715094
+	},
+	{
+		"antecedent": [
+			"11",
+			"13",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12914,
+		"antecedentNConsequentSUP  ": 12618,
+		"confidence": 0.9770791389190027,
+		"confidencePurity": 0.8231497877078903
+	},
+	{
+		"antecedent": [
+			"11",
+			"13",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12937,
+		"antecedentNConsequentSUP  ": 12600,
+		"confidence": 0.9739506840844091,
+		"confidencePurity": 0.8043129808213745
+	},
+	{
+		"antecedent": [
+			"11",
+			"13",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12830,
+		"antecedentNConsequentSUP  ": 12511,
+		"confidence": 0.9751363990646922,
+		"confidencePurity": 0.811372522664076
+	},
+	{
+		"antecedent": [
+			"11",
+			"13",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12868,
+		"antecedentNConsequentSUP  ": 12528,
+		"confidence": 0.9735778675784893,
+		"confidencePurity": 0.802112602565386
+	},
+	{
+		"antecedent": [
+			"11",
+			"13",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12862,
+		"antecedentNConsequentSUP  ": 12543,
+		"confidence": 0.9751982584357021,
+		"confidencePurity": 0.8117434355179604
+	},
+	{
+		"antecedent": [
+			"11",
+			"15",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12995,
+		"antecedentNConsequentSUP  ": 12673,
+		"confidence": 0.9752212389380531,
+		"confidencePurity": 0.8118812951220018
+	},
+	{
+		"antecedent": [
+			"11",
+			"15",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12932,
+		"antecedentNConsequentSUP  ": 12602,
+		"confidence": 0.9744819053510672,
+		"confidencePurity": 0.8074641073838127
+	},
+	{
+		"antecedent": [
+			"11",
+			"15",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12817,
+		"antecedentNConsequentSUP  ": 12500,
+		"confidence": 0.975267223219162,
+		"confidencePurity": 0.8121572631194205
+	},
+	{
+		"antecedent": [
+			"11",
+			"15",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12797,
+		"antecedentNConsequentSUP  ": 12469,
+		"confidence": 0.9743689927326717,
+		"confidencePurity": 0.8067927546335106
+	},
+	{
+		"antecedent": [
+			"11",
+			"15",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12862,
+		"antecedentNConsequentSUP  ": 12535,
+		"confidence": 0.9745762711864406,
+		"confidencePurity": 0.8080258407532299
+	},
+	{
+		"antecedent": [
+			"11",
+			"15",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12810,
+		"antecedentNConsequentSUP  ": 12508,
+		"confidence": 0.9764246682279469,
+		"confidencePurity": 0.8191521651361019
+	},
+	{
+		"antecedent": [
+			"11",
+			"15",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12905,
+		"antecedentNConsequentSUP  ": 12571,
+		"confidence": 0.974118558698179,
+		"confidencePurity": 0.8053067645175279
+	},
+	{
+		"antecedent": [
+			"12",
+			"14",
+			"16"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 14594,
+		"antecedentNConsequentSUP  ": 14365,
+		"confidence": 0.984308619980814,
+		"confidencePurity": 0.869625207518185
+	},
+	{
+		"antecedent": [
+			"12",
+			"14",
+			"18"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12808,
+		"antecedentNConsequentSUP  ": 12485,
+		"confidence": 0.9747813866333541,
+		"confidencePurity": 0.8092489042455031
+	},
+	{
+		"antecedent": [
+			"12",
+			"14",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12876,
+		"antecedentNConsequentSUP  ": 12555,
+		"confidence": 0.9750698974836906,
+		"confidencePurity": 0.8109740676385071
+	},
+	{
+		"antecedent": [
+			"12",
+			"14",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12911,
+		"antecedentNConsequentSUP  ": 12566,
+		"confidence": 0.9732785996437147,
+		"confidencePurity": 0.8003528542217657
+	},
+	{
+		"antecedent": [
+			"12",
+			"14",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12831,
+		"antecedentNConsequentSUP  ": 12501,
+		"confidence": 0.9742810381108253,
+		"confidencePurity": 0.8062703865701634
+	},
+	{
+		"antecedent": [
+			"12",
+			"14",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12880,
+		"antecedentNConsequentSUP  ": 12547,
+		"confidence": 0.9741459627329192,
+		"confidencePurity": 0.8054691677275491
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12860,
+		"antecedentNConsequentSUP  ": 12517,
+		"confidence": 0.9733281493001555,
+		"confidencePurity": 0.8006438152148847
+	},
+	{
+		"antecedent": [
+			"13",
+			"15",
+			"17"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12871,
+		"antecedentNConsequentSUP  ": 12600,
+		"confidence": 0.9789449149250252,
+		"confidencePurity": 0.8347225826663637
+	},
+	{
+		"antecedent": [
+			"13",
+			"15",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12874,
+		"antecedentNConsequentSUP  ": 12561,
+		"confidence": 0.975687432033556,
+		"confidencePurity": 0.8146858679648138
+	},
+	{
+		"antecedent": [
+			"13",
+			"15",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12761,
+		"antecedentNConsequentSUP  ": 12464,
+		"confidence": 0.9767259619152104,
+		"confidencePurity": 0.8209886458021556
+	},
+	{
+		"antecedent": [
+			"13",
+			"15",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12800,
+		"antecedentNConsequentSUP  ": 12493,
+		"confidence": 0.976015625,
+		"confidencePurity": 0.8166693542898675
+	},
+	{
+		"antecedent": [
+			"13",
+			"15",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12810,
+		"antecedentNConsequentSUP  ": 12478,
+		"confidence": 0.9740827478532397,
+		"confidencePurity": 0.8050946153694475
+	},
+	{
+		"antecedent": [
+			"13",
+			"15",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12799,
+		"antecedentNConsequentSUP  ": 12486,
+		"confidence": 0.9755449644503477,
+		"confidencePurity": 0.8138271945035289
+	},
+	{
+		"antecedent": [
+			"13",
+			"15",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12829,
+		"antecedentNConsequentSUP  ": 12510,
+		"confidence": 0.9751344609868268,
+		"confidencePurity": 0.8113609060665666
+	},
+	{
+		"antecedent": [
+			"13",
+			"15",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 12884,
+		"antecedentNConsequentSUP  ": 12563,
+		"confidence": 0.9750853772120459,
+		"confidencePurity": 0.811066789888682
+	},
+	{
+		"antecedent": [
+			"14",
+			"16",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12986,
+		"antecedentNConsequentSUP  ": 12642,
+		"confidence": 0.9735099337748344,
+		"confidencePurity": 0.8017126310587352
+	},
+	{
+		"antecedent": [
+			"14",
+			"16",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12907,
+		"antecedentNConsequentSUP  ": 12567,
+		"confidence": 0.973657705121252,
+		"confidencePurity": 0.8025830428333111
+	},
+	{
+		"antecedent": [
+			"14",
+			"16",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12913,
+		"antecedentNConsequentSUP  ": 12568,
+		"confidence": 0.9732827383257183,
+		"confidencePurity": 0.8003771509625013
+	},
+	{
+		"antecedent": [
+			"14",
+			"16",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12995,
+		"antecedentNConsequentSUP  ": 12651,
+		"confidence": 0.9735282801077337,
+		"confidencePurity": 0.8018206185965111
+	},
+	{
+		"antecedent": [
+			"14",
+			"16",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 12838,
+		"antecedentNConsequentSUP  ": 12496,
+		"confidence": 0.9733603365010126,
+		"confidencePurity": 0.8008329067626357
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"19",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8822,
+		"antecedentNConsequentSUP  ": 8712,
+		"confidence": 0.9875311720698254,
+		"confidencePurity": 0.8919894594868535
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"19",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8881,
+		"antecedentNConsequentSUP  ": 8775,
+		"confidence": 0.9880644071613557,
+		"confidencePurity": 0.8958109991301905
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"19",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8852,
+		"antecedentNConsequentSUP  ": 8745,
+		"confidence": 0.9879123361952101,
+		"confidencePurity": 0.8947173457209331
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"19",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8945,
+		"antecedentNConsequentSUP  ": 8836,
+		"confidence": 0.9878144214645053,
+		"confidencePurity": 0.8940147878415666
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"19",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8950,
+		"antecedentNConsequentSUP  ": 8838,
+		"confidence": 0.9874860335195531,
+		"confidencePurity": 0.8916676603795948
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"21",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8922,
+		"antecedentNConsequentSUP  ": 8822,
+		"confidence": 0.9887917507285362,
+		"confidencePurity": 0.9010852479033118
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"21",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8892,
+		"antecedentNConsequentSUP  ": 8783,
+		"confidence": 0.9877417903733693,
+		"confidencePurity": 0.8934944574979929
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"21",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8841,
+		"antecedentNConsequentSUP  ": 8742,
+		"confidence": 0.9888021717000339,
+		"confidencePurity": 0.9011613484245113
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"21",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8873,
+		"antecedentNConsequentSUP  ": 8760,
+		"confidence": 0.9872647357150908,
+		"confidencePurity": 0.890093751180708
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"25",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8945,
+		"antecedentNConsequentSUP  ": 8826,
+		"confidence": 0.9866964784795975,
+		"confidencePurity": 0.8860802042055685
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"25",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8959,
+		"antecedentNConsequentSUP  ": 8859,
+		"confidence": 0.9888380399598169,
+		"confidencePurity": 0.9014233989014578
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"25",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8967,
+		"antecedentNConsequentSUP  ": 8849,
+		"confidence": 0.986840637894502,
+		"confidencePurity": 0.8870946314743997
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"27",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8922,
+		"antecedentNConsequentSUP  ": 8828,
+		"confidence": 0.989464245684824,
+		"confidencePurity": 0.9060283774051864
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"27",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8953,
+		"antecedentNConsequentSUP  ": 8833,
+		"confidence": 0.9865966715067576,
+		"confidencePurity": 0.8853793512316683
+	},
+	{
+		"antecedent": [
+			"1",
+			"3",
+			"29",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8898,
+		"antecedentNConsequentSUP  ": 8794,
+		"confidence": 0.9883119802202742,
+		"confidencePurity": 0.8975981045735316
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"17",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8951,
+		"antecedentNConsequentSUP  ": 8844,
+		"confidence": 0.9880460283767177,
+		"confidencePurity": 0.895678660429314
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"17",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8959,
+		"antecedentNConsequentSUP  ": 8833,
+		"confidence": 0.9859359303493693,
+		"confidencePurity": 0.8807693547575607
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"17",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 9020,
+		"antecedentNConsequentSUP  ": 8918,
+		"confidence": 0.9886917960088691,
+		"confidencePurity": 0.9003560947768231
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"17",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 9003,
+		"antecedentNConsequentSUP  ": 8901,
+		"confidence": 0.9886704431856048,
+		"confidencePurity": 0.9002005118000791
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"17",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8976,
+		"antecedentNConsequentSUP  ": 8869,
+		"confidence": 0.9880793226381461,
+		"confidencePurity": 0.895918433030485
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"19",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8832,
+		"antecedentNConsequentSUP  ": 8726,
+		"confidence": 0.9879981884057971,
+		"confidencePurity": 0.8953343940096355
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"19",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8891,
+		"antecedentNConsequentSUP  ": 8783,
+		"confidence": 0.9878528849398268,
+		"confidencePurity": 0.8942906206252047
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"19",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8937,
+		"antecedentNConsequentSUP  ": 8831,
+		"confidence": 0.9881391965984111,
+		"confidencePurity": 0.8963499958762869
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"19",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8910,
+		"antecedentNConsequentSUP  ": 8806,
+		"confidence": 0.988327721661055,
+		"confidencePurity": 0.8977120147555847
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"23",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8911,
+		"antecedentNConsequentSUP  ": 8798,
+		"confidence": 0.9873190438783526,
+		"confidencePurity": 0.8904794260258597
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"23",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8948,
+		"antecedentNConsequentSUP  ": 8835,
+		"confidence": 0.9873714796602593,
+		"confidencePurity": 0.890852157511721
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"23",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8845,
+		"antecedentNConsequentSUP  ": 8741,
+		"confidence": 0.9882419446014697,
+		"confidencePurity": 0.8970917127054167
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"25",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8973,
+		"antecedentNConsequentSUP  ": 8860,
+		"confidence": 0.9874066644377577,
+		"confidencePurity": 0.8911024583569197
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"25",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8922,
+		"antecedentNConsequentSUP  ": 8817,
+		"confidence": 0.988231338264963,
+		"confidencePurity": 0.8970150817232144
+	},
+	{
+		"antecedent": [
+			"1",
+			"7",
+			"29",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8868,
+		"antecedentNConsequentSUP  ": 8753,
+		"confidence": 0.9870320252593595,
+		"confidencePurity": 0.8884453191423678
+	},
+	{
+		"antecedent": [
+			"1",
+			"13",
+			"23",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8918,
+		"antecedentNConsequentSUP  ": 8811,
+		"confidence": 0.988001794124243,
+		"confidencePurity": 0.8953603308972423
+	},
+	{
+		"antecedent": [
+			"2",
+			"4",
+			"18",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8924,
+		"antecedentNConsequentSUP  ": 8784,
+		"confidence": 0.9843119677274764,
+		"confidencePurity": 0.8696478417490964
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"18",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8775,
+		"antecedentNConsequentSUP  ": 8656,
+		"confidence": 0.9864387464387464,
+		"confidencePurity": 0.8842728278516326
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"18",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8915,
+		"antecedentNConsequentSUP  ": 8804,
+		"confidence": 0.9875490745933819,
+		"confidencePurity": 0.8921171614700317
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"18",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8687,
+		"antecedentNConsequentSUP  ": 8581,
+		"confidence": 0.9877978588695753,
+		"confidencePurity": 0.8938960724123125
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"18",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8775,
+		"antecedentNConsequentSUP  ": 8640,
+		"confidence": 0.9846153846153847,
+		"confidencePurity": 0.8717041178228709
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"26",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8841,
+		"antecedentNConsequentSUP  ": 8724,
+		"confidence": 0.9867662029182219,
+		"confidencePurity": 0.886570528969011
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"26",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8682,
+		"antecedentNConsequentSUP  ": 8578,
+		"confidence": 0.9880211932734393,
+		"confidencePurity": 0.89549990379708
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"26",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8780,
+		"antecedentNConsequentSUP  ": 8645,
+		"confidence": 0.984624145785877,
+		"confidencePurity": 0.8717636366614898
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"28",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8748,
+		"antecedentNConsequentSUP  ": 8642,
+		"confidence": 0.9878829446730681,
+		"confidencePurity": 0.894506323087851
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"28",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8863,
+		"antecedentNConsequentSUP  ": 8722,
+		"confidence": 0.9840911655195758,
+		"confidencePurity": 0.868157474065077
+	},
+	{
+		"antecedent": [
+			"2",
+			"6",
+			"30",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8641,
+		"antecedentNConsequentSUP  ": 8500,
+		"confidence": 0.9836824441615554,
+		"confidencePurity": 0.8654118436466579
+	},
+	{
+		"antecedent": [
+			"2",
+			"12",
+			"18",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8791,
+		"antecedentNConsequentSUP  ": 8654,
+		"confidence": 0.9844158798771471,
+		"confidencePurity": 0.8703509755567738
+	},
+	{
+		"antecedent": [
+			"2",
+			"14",
+			"22",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8833,
+		"antecedentNConsequentSUP  ": 8718,
+		"confidence": 0.9869806407788974,
+		"confidencePurity": 0.8880822382794296
+	},
+	{
+		"antecedent": [
+			"2",
+			"14",
+			"22",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8831,
+		"antecedentNConsequentSUP  ": 8724,
+		"confidence": 0.987883591892198,
+		"confidencePurity": 0.894510968707542
+	},
+	{
+		"antecedent": [
+			"2",
+			"14",
+			"22",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8964,
+		"antecedentNConsequentSUP  ": 8856,
+		"confidence": 0.9879518072289156,
+		"confidencePurity": 0.8950009158520575
+	},
+	{
+		"antecedent": [
+			"2",
+			"14",
+			"22",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8848,
+		"antecedentNConsequentSUP  ": 8723,
+		"confidence": 0.985872513562387,
+		"confidencePurity": 0.880329567450152
+	},
+	{
+		"antecedent": [
+			"2",
+			"14",
+			"24",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8825,
+		"antecedentNConsequentSUP  ": 8721,
+		"confidence": 0.9882152974504249,
+		"confidencePurity": 0.8968992154618906
+	},
+	{
+		"antecedent": [
+			"2",
+			"14",
+			"24",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8890,
+		"antecedentNConsequentSUP  ": 8783,
+		"confidence": 0.9879640044994376,
+		"confidencePurity": 0.8950885859126605
+	},
+	{
+		"antecedent": [
+			"2",
+			"14",
+			"24",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8876,
+		"antecedentNConsequentSUP  ": 8746,
+		"confidence": 0.9853537629562866,
+		"confidencePurity": 0.876749200754502
+	},
+	{
+		"antecedent": [
+			"2",
+			"14",
+			"30",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8836,
+		"antecedentNConsequentSUP  ": 8742,
+		"confidence": 0.9893617021276596,
+		"confidencePurity": 0.9052703503743162
+	},
+	{
+		"antecedent": [
+			"2",
+			"14",
+			"30",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8749,
+		"antecedentNConsequentSUP  ": 8609,
+		"confidence": 0.9839981712195679,
+		"confidencePurity": 0.8675312829272834
+	},
+	{
+		"antecedent": [
+			"2",
+			"14",
+			"32",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8930,
+		"antecedentNConsequentSUP  ": 8788,
+		"confidence": 0.9840985442329228,
+		"confidencePurity": 0.8682071976708711
+	},
+	{
+		"antecedent": [
+			"2",
+			"16",
+			"22",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8976,
+		"antecedentNConsequentSUP  ": 8874,
+		"confidence": 0.9886363636363636,
+		"confidencePurity": 0.8999523305516369
+	},
+	{
+		"antecedent": [
+			"2",
+			"16",
+			"22",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8865,
+		"antecedentNConsequentSUP  ": 8724,
+		"confidence": 0.9840947546531302,
+		"confidencePurity": 0.868181659787535
+	},
+	{
+		"antecedent": [
+			"2",
+			"16",
+			"32",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8947,
+		"antecedentNConsequentSUP  ": 8795,
+		"confidence": 0.9830110651615066,
+		"confidencePurity": 0.8609379562114253
+	},
+	{
+		"antecedent": [
+			"3",
+			"5",
+			"17",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8933,
+		"antecedentNConsequentSUP  ": 8828,
+		"confidence": 0.9882458300682861,
+		"confidencePurity": 0.8971197890905009
+	},
+	{
+		"antecedent": [
+			"3",
+			"5",
+			"17",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8950,
+		"antecedentNConsequentSUP  ": 8833,
+		"confidence": 0.986927374301676,
+		"confidencePurity": 0.8877062029429795
+	},
+	{
+		"antecedent": [
+			"3",
+			"5",
+			"19",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8880,
+		"antecedentNConsequentSUP  ": 8761,
+		"confidence": 0.9865990990990992,
+		"confidencePurity": 0.8853963837676593
+	},
+	{
+		"antecedent": [
+			"3",
+			"7",
+			"17",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8976,
+		"antecedentNConsequentSUP  ": 8870,
+		"confidence": 0.9881907308377896,
+		"confidencePurity": 0.8967218329451765
+	},
+	{
+		"antecedent": [
+			"3",
+			"7",
+			"17",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8946,
+		"antecedentNConsequentSUP  ": 8831,
+		"confidence": 0.9871450927788956,
+		"confidencePurity": 0.8892454023222743
+	},
+	{
+		"antecedent": [
+			"3",
+			"7",
+			"17",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8904,
+		"antecedentNConsequentSUP  ": 8806,
+		"confidence": 0.9889937106918238,
+		"confidencePurity": 0.9025628430540075
+	},
+	{
+		"antecedent": [
+			"3",
+			"7",
+			"19",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8884,
+		"antecedentNConsequentSUP  ": 8787,
+		"confidence": 0.9890814948221521,
+		"confidencePurity": 0.9032069223525976
+	},
+	{
+		"antecedent": [
+			"3",
+			"7",
+			"19",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8864,
+		"antecedentNConsequentSUP  ": 8764,
+		"confidence": 0.9887184115523465,
+		"confidencePurity": 0.900550113175825
+	},
+	{
+		"antecedent": [
+			"3",
+			"7",
+			"21",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8805,
+		"antecedentNConsequentSUP  ": 8695,
+		"confidence": 0.9875070982396366,
+		"confidencePurity": 0.8918178012672248
+	},
+	{
+		"antecedent": [
+			"3",
+			"9",
+			"17",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 9000,
+		"antecedentNConsequentSUP  ": 8890,
+		"confidence": 0.9877777777777778,
+		"confidencePurity": 0.8937521856738955
+	},
+	{
+		"antecedent": [
+			"3",
+			"9",
+			"17",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 9021,
+		"antecedentNConsequentSUP  ": 8912,
+		"confidence": 0.9879170823633744,
+		"confidencePurity": 0.8947514325279534
+	},
+	{
+		"antecedent": [
+			"3",
+			"9",
+			"17",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 9002,
+		"antecedentNConsequentSUP  ": 8873,
+		"confidence": 0.9856698511441901,
+		"confidencePurity": 0.8789272039091839
+	},
+	{
+		"antecedent": [
+			"3",
+			"9",
+			"19",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8951,
+		"antecedentNConsequentSUP  ": 8835,
+		"confidence": 0.9870405541280304,
+		"confidencePurity": 0.8885056154028331
+	},
+	{
+		"antecedent": [
+			"3",
+			"9",
+			"19",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8950,
+		"antecedentNConsequentSUP  ": 8846,
+		"confidence": 0.9883798882681564,
+		"confidencePurity": 0.898089751128891
+	},
+	{
+		"antecedent": [
+			"3",
+			"9",
+			"25",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8956,
+		"antecedentNConsequentSUP  ": 8836,
+		"confidence": 0.9866011612326931,
+		"confidencePurity": 0.8854108527183424
+	},
+	{
+		"antecedent": [
+			"4",
+			"6",
+			"30",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8697,
+		"antecedentNConsequentSUP  ": 8543,
+		"confidence": 0.9822927446245832,
+		"confidencePurity": 0.8561994645754746
+	},
+	{
+		"antecedent": [
+			"4",
+			"8",
+			"30",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8685,
+		"antecedentNConsequentSUP  ": 8534,
+		"confidence": 0.9826137017846862,
+		"confidencePurity": 0.8583106566066994
+	},
+	{
+		"antecedent": [
+			"4",
+			"10",
+			"20",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8990,
+		"antecedentNConsequentSUP  ": 8882,
+		"confidence": 0.9879866518353726,
+		"confidencePurity": 0.8952514200122447
+	},
+	{
+		"antecedent": [
+			"4",
+			"10",
+			"20",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 9009,
+		"antecedentNConsequentSUP  ": 8897,
+		"confidence": 0.9875679875679876,
+		"confidencePurity": 0.8922521159199918
+	},
+	{
+		"antecedent": [
+			"4",
+			"10",
+			"20",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8954,
+		"antecedentNConsequentSUP  ": 8792,
+		"confidence": 0.9819075273620728,
+		"confidencePurity": 0.8536782272047022
+	},
+	{
+		"antecedent": [
+			"4",
+			"10",
+			"22",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 9040,
+		"antecedentNConsequentSUP  ": 8927,
+		"confidence": 0.9875,
+		"confidencePurity": 0.8917672015133078
+	},
+	{
+		"antecedent": [
+			"4",
+			"10",
+			"22",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8956,
+		"antecedentNConsequentSUP  ": 8812,
+		"confidence": 0.9839213934792318,
+		"confidencePurity": 0.8670149536960058
+	},
+	{
+		"antecedent": [
+			"4",
+			"10",
+			"32",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8990,
+		"antecedentNConsequentSUP  ": 8835,
+		"confidence": 0.9827586206896551,
+		"confidencePurity": 0.8592670886235112
+	},
+	{
+		"antecedent": [
+			"4",
+			"12",
+			"24",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8987,
+		"antecedentNConsequentSUP  ": 8877,
+		"confidence": 0.9877600979192166,
+		"confidencePurity": 0.8936255480899135
+	},
+	{
+		"antecedent": [
+			"4",
+			"12",
+			"24",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8916,
+		"antecedentNConsequentSUP  ": 8756,
+		"confidence": 0.9820547330641544,
+		"confidencePurity": 0.8546400716790467
+	},
+	{
+		"antecedent": [
+			"4",
+			"12",
+			"28",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8922,
+		"antecedentNConsequentSUP  ": 8780,
+		"confidence": 0.9840842860345214,
+		"confidencePurity": 0.8681111196856965
+	},
+	{
+		"antecedent": [
+			"4",
+			"14",
+			"30",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8744,
+		"antecedentNConsequentSUP  ": 8600,
+		"confidence": 0.9835315645013724,
+		"confidencePurity": 0.8644025454477346
+	},
+	{
+		"antecedent": [
+			"4",
+			"16",
+			"24",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8771,
+		"antecedentNConsequentSUP  ": 8647,
+		"confidence": 0.9858625014251511,
+		"confidencePurity": 0.8802601766486962
+	},
+	{
+		"antecedent": [
+			"4",
+			"16",
+			"24",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8874,
+		"antecedentNConsequentSUP  ": 8763,
+		"confidence": 0.9874915483434753,
+		"confidencePurity": 0.891706962348403
+	},
+	{
+		"antecedent": [
+			"4",
+			"16",
+			"24",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8888,
+		"antecedentNConsequentSUP  ": 8747,
+		"confidence": 0.9841359135913591,
+		"confidencePurity": 0.8684591078194857
+	},
+	{
+		"antecedent": [
+			"4",
+			"16",
+			"30",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8840,
+		"antecedentNConsequentSUP  ": 8739,
+		"confidence": 0.9885746606334842,
+		"confidencePurity": 0.899503396921208
+	},
+	{
+		"antecedent": [
+			"4",
+			"16",
+			"30",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8721,
+		"antecedentNConsequentSUP  ": 8572,
+		"confidence": 0.9829148033482399,
+		"confidencePurity": 0.8603001011560879
+	},
+	{
+		"antecedent": [
+			"4",
+			"16",
+			"32",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8960,
+		"antecedentNConsequentSUP  ": 8803,
+		"confidence": 0.9824776785714285,
+		"confidencePurity": 0.8574147423781848
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"17",
+			"19"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8995,
+		"antecedentNConsequentSUP  ": 8878,
+		"confidence": 0.9869927737632018,
+		"confidencePurity": 0.8881679400993419
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"17",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 9001,
+		"antecedentNConsequentSUP  ": 8890,
+		"confidence": 0.9876680368847905,
+		"confidencePurity": 0.8929667899546639
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"17",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 9070,
+		"antecedentNConsequentSUP  ": 8961,
+		"confidence": 0.9879823594266813,
+		"confidencePurity": 0.8952205524119375
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"17",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8986,
+		"antecedentNConsequentSUP  ": 8867,
+		"confidence": 0.9867571778321834,
+		"confidencePurity": 0.8865070284427968
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"17",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 9007,
+		"antecedentNConsequentSUP  ": 8896,
+		"confidence": 0.9876762518041523,
+		"confidencePurity": 0.8930255284265918
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"19",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8912,
+		"antecedentNConsequentSUP  ": 8809,
+		"confidence": 0.9884425493716338,
+		"confidencePurity": 0.8985439706679157
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"19",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8941,
+		"antecedentNConsequentSUP  ": 8837,
+		"confidence": 0.9883681914774634,
+		"confidencePurity": 0.8980050227574364
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"19",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8973,
+		"antecedentNConsequentSUP  ": 8863,
+		"confidence": 0.9877410007801182,
+		"confidencePurity": 0.8934888046242261
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"19",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8978,
+		"antecedentNConsequentSUP  ": 8880,
+		"confidence": 0.9890844286032524,
+		"confidencePurity": 0.9032284670102467
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"23",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 9002,
+		"antecedentNConsequentSUP  ": 8885,
+		"confidence": 0.9870028882470562,
+		"confidencePurity": 0.8882393980444645
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"23",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8910,
+		"antecedentNConsequentSUP  ": 8793,
+		"confidence": 0.9868686868686869,
+		"confidencePurity": 0.8872923017898547
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"23",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8916,
+		"antecedentNConsequentSUP  ": 8815,
+		"confidence": 0.9886720502467474,
+		"confidencePurity": 0.9002122190958101
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"25",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8946,
+		"antecedentNConsequentSUP  ": 8839,
+		"confidence": 0.9880393471942768,
+		"confidencePurity": 0.8956305629259289
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"25",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8941,
+		"antecedentNConsequentSUP  ": 8846,
+		"confidence": 0.9893747902919137,
+		"confidencePurity": 0.9053670139426949
+	},
+	{
+		"antecedent": [
+			"5",
+			"7",
+			"27",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8950,
+		"antecedentNConsequentSUP  ": 8847,
+		"confidence": 0.9884916201117319,
+		"confidencePurity": 0.8989000532607808
+	},
+	{
+		"antecedent": [
+			"5",
+			"11",
+			"17",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8991,
+		"antecedentNConsequentSUP  ": 8856,
+		"confidence": 0.984984984984985,
+		"confidencePurity": 0.8742220975521076
+	},
+	{
+		"antecedent": [
+			"5",
+			"11",
+			"17",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 9015,
+		"antecedentNConsequentSUP  ": 8905,
+		"confidence": 0.9877981142540211,
+		"confidencePurity": 0.8938979026543377
+	},
+	{
+		"antecedent": [
+			"5",
+			"11",
+			"17",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 9049,
+		"antecedentNConsequentSUP  ": 8944,
+		"confidence": 0.9883965079014255,
+		"confidencePurity": 0.8982101714686705
+	},
+	{
+		"antecedent": [
+			"5",
+			"11",
+			"17",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 9006,
+		"antecedentNConsequentSUP  ": 8889,
+		"confidence": 0.9870086608927382,
+		"confidencePurity": 0.8882801869443959
+	},
+	{
+		"antecedent": [
+			"5",
+			"11",
+			"21",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8914,
+		"antecedentNConsequentSUP  ": 8802,
+		"confidence": 0.9874354947273951,
+		"confidencePurity": 0.8913076713473448
+	},
+	{
+		"antecedent": [
+			"5",
+			"11",
+			"21",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8920,
+		"antecedentNConsequentSUP  ": 8811,
+		"confidence": 0.987780269058296,
+		"confidencePurity": 0.8937700335422963
+	},
+	{
+		"antecedent": [
+			"5",
+			"11",
+			"21",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8888,
+		"antecedentNConsequentSUP  ": 8777,
+		"confidence": 0.9875112511251125,
+		"confidencePurity": 0.8918474080759191
+	},
+	{
+		"antecedent": [
+			"5",
+			"11",
+			"25",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8975,
+		"antecedentNConsequentSUP  ": 8883,
+		"confidence": 0.9897493036211699,
+		"confidencePurity": 0.9081439295311847
+	},
+	{
+		"antecedent": [
+			"5",
+			"11",
+			"25",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8919,
+		"antecedentNConsequentSUP  ": 8816,
+		"confidence": 0.9884516201367867,
+		"confidencePurity": 0.8986097678036845
+	},
+	{
+		"antecedent": [
+			"5",
+			"11",
+			"29",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8905,
+		"antecedentNConsequentSUP  ": 8801,
+		"confidence": 0.9883211678832117,
+		"confidencePurity": 0.8976645853844858
+	},
+	{
+		"antecedent": [
+			"5",
+			"13",
+			"21",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8926,
+		"antecedentNConsequentSUP  ": 8819,
+		"confidence": 0.9880125476137127,
+		"confidencePurity": 0.8954376938625419
+	},
+	{
+		"antecedent": [
+			"5",
+			"13",
+			"21",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8942,
+		"antecedentNConsequentSUP  ": 8829,
+		"confidence": 0.9873630060389175,
+		"confidencePurity": 0.8907919005246604
+	},
+	{
+		"antecedent": [
+			"5",
+			"13",
+			"23",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8929,
+		"antecedentNConsequentSUP  ": 8817,
+		"confidence": 0.9874566020831,
+		"confidencePurity": 0.8914579799035528
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"18",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8762,
+		"antecedentNConsequentSUP  ": 8647,
+		"confidence": 0.9868751426614928,
+		"confidencePurity": 0.8873378114959548
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"18",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8865,
+		"antecedentNConsequentSUP  ": 8753,
+		"confidence": 0.987366046249295,
+		"confidencePurity": 0.8908135187959264
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"18",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8725,
+		"antecedentNConsequentSUP  ": 8620,
+		"confidence": 0.9879656160458453,
+		"confidencePurity": 0.8951001706651489
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"18",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8809,
+		"antecedentNConsequentSUP  ": 8704,
+		"confidence": 0.9880803723464638,
+		"confidencePurity": 0.8959259950396213
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"18",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8774,
+		"antecedentNConsequentSUP  ": 8641,
+		"confidence": 0.9848415773877365,
+		"confidencePurity": 0.8732433672353921
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"22",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8769,
+		"antecedentNConsequentSUP  ": 8658,
+		"confidence": 0.9873417721518988,
+		"confidencePurity": 0.8906409436453472
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"22",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8693,
+		"antecedentNConsequentSUP  ": 8581,
+		"confidence": 0.9871160704014724,
+		"confidencePurity": 0.8890398838750512
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"22",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8836,
+		"antecedentNConsequentSUP  ": 8725,
+		"confidence": 0.9874377546401086,
+		"confidencePurity": 0.891323761800044
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"22",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8782,
+		"antecedentNConsequentSUP  ": 8616,
+		"confidence": 0.981097699840583,
+		"confidencePurity": 0.8484217848354096
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"24",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8771,
+		"antecedentNConsequentSUP  ": 8649,
+		"confidence": 0.9860905255957132,
+		"confidencePurity": 0.8818433922019618
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"24",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8842,
+		"antecedentNConsequentSUP  ": 8730,
+		"confidence": 0.9873331825378874,
+		"confidencePurity": 0.8905798941988151
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"24",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8795,
+		"antecedentNConsequentSUP  ": 8665,
+		"confidence": 0.9852188743604321,
+		"confidencePurity": 0.8758231302705257
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"30",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8736,
+		"antecedentNConsequentSUP  ": 8634,
+		"confidence": 0.9883241758241759,
+		"confidencePurity": 0.8976863529795185
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"30",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8640,
+		"antecedentNConsequentSUP  ": 8497,
+		"confidence": 0.9834490740740741,
+		"confidencePurity": 0.8638516899246788
+	},
+	{
+		"antecedent": [
+			"6",
+			"8",
+			"32",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8805,
+		"antecedentNConsequentSUP  ": 8669,
+		"confidence": 0.9845542305508234,
+		"confidencePurity": 0.871288894785682
+	},
+	{
+		"antecedent": [
+			"6",
+			"14",
+			"18",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8843,
+		"antecedentNConsequentSUP  ": 8733,
+		"confidence": 0.987560782539862,
+		"confidencePurity": 0.8922006986679012
+	},
+	{
+		"antecedent": [
+			"6",
+			"14",
+			"18",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8730,
+		"antecedentNConsequentSUP  ": 8621,
+		"confidence": 0.9875143184421535,
+		"confidencePurity": 0.8918692770538658
+	},
+	{
+		"antecedent": [
+			"6",
+			"14",
+			"18",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8847,
+		"antecedentNConsequentSUP  ": 8742,
+		"confidence": 0.9881315700237369,
+		"confidencePurity": 0.8962949978996784
+	},
+	{
+		"antecedent": [
+			"6",
+			"14",
+			"18",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8785,
+		"antecedentNConsequentSUP  ": 8645,
+		"confidence": 0.9840637450199203,
+		"confidencePurity": 0.8679727419797081
+	},
+	{
+		"antecedent": [
+			"6",
+			"14",
+			"24",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8832,
+		"antecedentNConsequentSUP  ": 8715,
+		"confidence": 0.9867527173913043,
+		"confidencePurity": 0.8864756484214582
+	},
+	{
+		"antecedent": [
+			"6",
+			"14",
+			"24",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8893,
+		"antecedentNConsequentSUP  ": 8787,
+		"confidence": 0.9880805127628471,
+		"confidencePurity": 0.8959270065984415
+	},
+	{
+		"antecedent": [
+			"6",
+			"14",
+			"24",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8866,
+		"antecedentNConsequentSUP  ": 8739,
+		"confidence": 0.9856756147078728,
+		"confidencePurity": 0.8789670217130403
+	},
+	{
+		"antecedent": [
+			"6",
+			"14",
+			"30",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8836,
+		"antecedentNConsequentSUP  ": 8729,
+		"confidence": 0.9878904481665912,
+		"confidencePurity": 0.8945601851721648
+	},
+	{
+		"antecedent": [
+			"6",
+			"14",
+			"30",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8760,
+		"antecedentNConsequentSUP  ": 8594,
+		"confidence": 0.9810502283105023,
+		"confidencePurity": 0.8481154629362982
+	},
+	{
+		"antecedent": [
+			"6",
+			"14",
+			"32",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8916,
+		"antecedentNConsequentSUP  ": 8784,
+		"confidence": 0.9851951547779273,
+		"confidencePurity": 0.8756604916060833
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"17",
+			"21"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8931,
+		"antecedentNConsequentSUP  ": 8825,
+		"confidence": 0.9881312283059008,
+		"confidencePurity": 0.8962925338321966
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"17",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8954,
+		"antecedentNConsequentSUP  ": 8834,
+		"confidence": 0.9865981684163503,
+		"confidencePurity": 0.885389853803731
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"17",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 9057,
+		"antecedentNConsequentSUP  ": 8940,
+		"confidence": 0.9870818151705862,
+		"confidencePurity": 0.8887974445212091
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"17",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8973,
+		"antecedentNConsequentSUP  ": 8855,
+		"confidence": 0.9868494372004903,
+		"confidencePurity": 0.8871566327191577
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"17",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8993,
+		"antecedentNConsequentSUP  ": 8883,
+		"confidence": 0.9877682642054931,
+		"confidencePurity": 0.8936840366265698
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"17",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8982,
+		"antecedentNConsequentSUP  ": 8856,
+		"confidence": 0.9859719438877755,
+		"confidencePurity": 0.8810193095355601
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"21",
+			"23"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8790,
+		"antecedentNConsequentSUP  ": 8693,
+		"confidence": 0.9889647326507395,
+		"confidencePurity": 0.902350472930459
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"21",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8892,
+		"antecedentNConsequentSUP  ": 8788,
+		"confidence": 0.9883040935672515,
+		"confidencePurity": 0.8975410468851238
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"21",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8928,
+		"antecedentNConsequentSUP  ": 8814,
+		"confidence": 0.9872311827956989,
+		"confidencePurity": 0.8898556573489796
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"21",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8850,
+		"antecedentNConsequentSUP  ": 8731,
+		"confidence": 0.9865536723163841,
+		"confidencePurity": 0.8850777763331166
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"21",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8817,
+		"antecedentNConsequentSUP  ": 8703,
+		"confidence": 0.9870704321197686,
+		"confidencePurity": 0.8887169139341866
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"23",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8937,
+		"antecedentNConsequentSUP  ": 8826,
+		"confidence": 0.9875797247398456,
+		"confidencePurity": 0.8923358902207165
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"23",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8829,
+		"antecedentNConsequentSUP  ": 8715,
+		"confidence": 0.9870880054366293,
+		"confidencePurity": 0.8888412449617715
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"23",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8945,
+		"antecedentNConsequentSUP  ": 8833,
+		"confidence": 0.987479038569033,
+		"confidencePurity": 0.8916178157293272
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"23",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8806,
+		"antecedentNConsequentSUP  ": 8703,
+		"confidence": 0.9883034294799,
+		"confidencePurity": 0.897536242788916
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"25",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8951,
+		"antecedentNConsequentSUP  ": 8840,
+		"confidence": 0.9875991509328567,
+		"confidencePurity": 0.892474584053952
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"25",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8968,
+		"antecedentNConsequentSUP  ": 8866,
+		"confidence": 0.9886262265834077,
+		"confidencePurity": 0.8998785397374642
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"25",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8935,
+		"antecedentNConsequentSUP  ": 8823,
+		"confidence": 0.9874650251818691,
+		"confidencePurity": 0.891517977883736
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"27",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8966,
+		"antecedentNConsequentSUP  ": 8848,
+		"confidence": 0.9868391701985277,
+		"confidencePurity": 0.8870842907859644
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"27",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8891,
+		"antecedentNConsequentSUP  ": 8783,
+		"confidence": 0.9878528849398268,
+		"confidencePurity": 0.8942906206252047
+	},
+	{
+		"antecedent": [
+			"7",
+			"9",
+			"29",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8809,
+		"antecedentNConsequentSUP  ": 8706,
+		"confidence": 0.9883074128731979,
+		"confidencePurity": 0.8975650600859004
+	},
+	{
+		"antecedent": [
+			"7",
+			"11",
+			"17",
+			"27"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8916,
+		"antecedentNConsequentSUP  ": 8812,
+		"confidence": 0.9883355764917003,
+		"confidencePurity": 0.8977688675018444
+	},
+	{
+		"antecedent": [
+			"7",
+			"11",
+			"17",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8986,
+		"antecedentNConsequentSUP  ": 8884,
+		"confidence": 0.9886490095704429,
+		"confidencePurity": 0.9000444044515273
+	},
+	{
+		"antecedent": [
+			"7",
+			"11",
+			"17",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8934,
+		"antecedentNConsequentSUP  ": 8833,
+		"confidence": 0.9886948735169018,
+		"confidencePurity": 0.9003785236875828
+	},
+	{
+		"antecedent": [
+			"7",
+			"11",
+			"27",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8946,
+		"antecedentNConsequentSUP  ": 8826,
+		"confidence": 0.9865861837692823,
+		"confidencePurity": 0.8853057750259409
+	},
+	{
+		"antecedent": [
+			"7",
+			"11",
+			"27",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8884,
+		"antecedentNConsequentSUP  ": 8774,
+		"confidence": 0.9876181900045025,
+		"confidencePurity": 0.8926105612480912
+	},
+	{
+		"antecedent": [
+			"7",
+			"11",
+			"29",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8861,
+		"antecedentNConsequentSUP  ": 8733,
+		"confidence": 0.9855546778016026,
+		"confidencePurity": 0.8781323087240257
+	},
+	{
+		"antecedent": [
+			"7",
+			"13",
+			"25",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8895,
+		"antecedentNConsequentSUP  ": 8792,
+		"confidence": 0.9884204609331085,
+		"confidencePurity": 0.8983837938370268
+	},
+	{
+		"antecedent": [
+			"7",
+			"15",
+			"29",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8826,
+		"antecedentNConsequentSUP  ": 8710,
+		"confidence": 0.9868570133695899,
+		"confidencePurity": 0.8872100231337583
+	},
+	{
+		"antecedent": [
+			"8",
+			"12",
+			"28",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8828,
+		"antecedentNConsequentSUP  ": 8692,
+		"confidence": 0.9845944721341187,
+		"confidencePurity": 0.8715620821061056
+	},
+	{
+		"antecedent": [
+			"8",
+			"14",
+			"18",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8855,
+		"antecedentNConsequentSUP  ": 8749,
+		"confidence": 0.9880293619424054,
+		"confidencePurity": 0.8955586906849704
+	},
+	{
+		"antecedent": [
+			"8",
+			"14",
+			"18",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8860,
+		"antecedentNConsequentSUP  ": 8742,
+		"confidence": 0.9866817155756208,
+		"confidencePurity": 0.8859764621737121
+	},
+	{
+		"antecedent": [
+			"8",
+			"14",
+			"18",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8750,
+		"antecedentNConsequentSUP  ": 8610,
+		"confidence": 0.984,
+		"confidencePurity": 0.8675435887742573
+	},
+	{
+		"antecedent": [
+			"8",
+			"14",
+			"20",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8959,
+		"antecedentNConsequentSUP  ": 8843,
+		"confidence": 0.9870521263533877,
+		"confidencePurity": 0.888587441584187
+	},
+	{
+		"antecedent": [
+			"8",
+			"14",
+			"20",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8816,
+		"antecedentNConsequentSUP  ": 8698,
+		"confidence": 0.9866152450090744,
+		"confidencePurity": 0.8855096851255349
+	},
+	{
+		"antecedent": [
+			"8",
+			"14",
+			"24",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8765,
+		"antecedentNConsequentSUP  ": 8653,
+		"confidence": 0.987221905305191,
+		"confidencePurity": 0.8897898485911009
+	},
+	{
+		"antecedent": [
+			"8",
+			"16",
+			"18",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8900,
+		"antecedentNConsequentSUP  ": 8793,
+		"confidence": 0.9879775280898876,
+		"confidencePurity": 0.8951858121941939
+	},
+	{
+		"antecedent": [
+			"8",
+			"16",
+			"18",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8828,
+		"antecedentNConsequentSUP  ": 8711,
+		"confidence": 0.9867467149977345,
+		"confidencePurity": 0.8864334242897073
+	},
+	{
+		"antecedent": [
+			"8",
+			"16",
+			"18",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8899,
+		"antecedentNConsequentSUP  ": 8790,
+		"confidence": 0.9877514327452522,
+		"confidencePurity": 0.8935634959413802
+	},
+	{
+		"antecedent": [
+			"8",
+			"16",
+			"18",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8808,
+		"antecedentNConsequentSUP  ": 8671,
+		"confidence": 0.9844459582198002,
+		"confidencePurity": 0.8705547145574842
+	},
+	{
+		"antecedent": [
+			"8",
+			"16",
+			"20",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8868,
+		"antecedentNConsequentSUP  ": 8759,
+		"confidence": 0.9877086152458276,
+		"confidencePurity": 0.8932570193460927
+	},
+	{
+		"antecedent": [
+			"8",
+			"16",
+			"20",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8924,
+		"antecedentNConsequentSUP  ": 8819,
+		"confidence": 0.9882339757956073,
+		"confidencePurity": 0.8970341365089766
+	},
+	{
+		"antecedent": [
+			"8",
+			"16",
+			"20",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8827,
+		"antecedentNConsequentSUP  ": 8691,
+		"confidence": 0.9845927268607682,
+		"confidencePurity": 0.8715502304539848
+	},
+	{
+		"antecedent": [
+			"8",
+			"16",
+			"22",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8854,
+		"antecedentNConsequentSUP  ": 8755,
+		"confidence": 0.9888186130562457,
+		"confidencePurity": 0.9012814449113891
+	},
+	{
+		"antecedent": [
+			"8",
+			"16",
+			"22",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8783,
+		"antecedentNConsequentSUP  ": 8634,
+		"confidence": 0.9830354093134465,
+		"confidencePurity": 0.8610994083746373
+	},
+	{
+		"antecedent": [
+			"8",
+			"16",
+			"32",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8840,
+		"antecedentNConsequentSUP  ": 8711,
+		"confidence": 0.9854072398190046,
+		"confidencePurity": 0.8771168996550355
+	},
+	{
+		"antecedent": [
+			"9",
+			"11",
+			"21",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8824,
+		"antecedentNConsequentSUP  ": 8708,
+		"confidence": 0.9868540344514959,
+		"confidencePurity": 0.8871890294086446
+	},
+	{
+		"antecedent": [
+			"9",
+			"13",
+			"19",
+			"25"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8917,
+		"antecedentNConsequentSUP  ": 8800,
+		"confidence": 0.9868789951777504,
+		"confidencePurity": 0.8873649719974585
+	},
+	{
+		"antecedent": [
+			"10",
+			"12",
+			"18",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8903,
+		"antecedentNConsequentSUP  ": 8776,
+		"confidence": 0.9857351454565877,
+		"confidencePurity": 0.8793785119294684
+	},
+	{
+		"antecedent": [
+			"10",
+			"12",
+			"18",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8908,
+		"antecedentNConsequentSUP  ": 8798,
+		"confidence": 0.987651549169286,
+		"confidencePurity": 0.8928489255732946
+	},
+	{
+		"antecedent": [
+			"10",
+			"12",
+			"18",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8884,
+		"antecedentNConsequentSUP  ": 8745,
+		"confidence": 0.9843538946420531,
+		"confidencePurity": 0.8699314097587559
+	},
+	{
+		"antecedent": [
+			"10",
+			"12",
+			"22",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8847,
+		"antecedentNConsequentSUP  ": 8753,
+		"confidence": 0.9893749293545835,
+		"confidencePurity": 0.9053680411367957
+	},
+	{
+		"antecedent": [
+			"10",
+			"12",
+			"22",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8903,
+		"antecedentNConsequentSUP  ": 8757,
+		"confidence": 0.9836010333595417,
+		"confidencePurity": 0.8648669699389203
+	},
+	{
+		"antecedent": [
+			"10",
+			"12",
+			"24",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8881,
+		"antecedentNConsequentSUP  ": 8739,
+		"confidence": 0.9840108095935143,
+		"confidencePurity": 0.8676163334034133
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"22",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8871,
+		"antecedentNConsequentSUP  ": 8772,
+		"confidence": 0.9888400405816706,
+		"confidencePurity": 0.9014380206569352
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"22",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8882,
+		"antecedentNConsequentSUP  ": 8764,
+		"confidence": 0.9867147038955191,
+		"confidencePurity": 0.8862083143752681
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"22",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 9069,
+		"antecedentNConsequentSUP  ": 8937,
+		"confidence": 0.985444922262653,
+		"confidencePurity": 0.8773761891125006
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"22",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8884,
+		"antecedentNConsequentSUP  ": 8770,
+		"confidence": 0.9871679423683025,
+		"confidencePurity": 0.8894072828416886
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"22",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8903,
+		"antecedentNConsequentSUP  ": 8762,
+		"confidence": 0.9841626418061328,
+		"confidencePurity": 0.8686393731629498
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"24",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8871,
+		"antecedentNConsequentSUP  ": 8759,
+		"confidence": 0.9873745913651223,
+		"confidencePurity": 0.8908742875219661
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"24",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 9030,
+		"antecedentNConsequentSUP  ": 8909,
+		"confidence": 0.9866002214839424,
+		"confidencePurity": 0.8854042589123218
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"24",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8851,
+		"antecedentNConsequentSUP  ": 8730,
+		"confidence": 0.9863292283357813,
+		"confidencePurity": 0.88350721549086
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"24",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8914,
+		"antecedentNConsequentSUP  ": 8779,
+		"confidence": 0.9848552838231994,
+		"confidencePurity": 0.8733368155158514
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"26",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8903,
+		"antecedentNConsequentSUP  ": 8793,
+		"confidence": 0.9876446141749972,
+		"confidencePurity": 0.8927993604659018
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"26",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8834,
+		"antecedentNConsequentSUP  ": 8718,
+		"confidence": 0.9868689155535432,
+		"confidencePurity": 0.8872939138022767
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"26",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8903,
+		"antecedentNConsequentSUP  ": 8743,
+		"confidence": 0.9820285297090868,
+		"confidencePurity": 0.8544687131911428
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"28",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8936,
+		"antecedentNConsequentSUP  ": 8815,
+		"confidence": 0.9864592658907789,
+		"confidencePurity": 0.8844164320805671
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"28",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 9023,
+		"antecedentNConsequentSUP  ": 8875,
+		"confidence": 0.9835974731242381,
+		"confidencePurity": 0.8648431567839626
+	},
+	{
+		"antecedent": [
+			"10",
+			"16",
+			"30",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8856,
+		"antecedentNConsequentSUP  ": 8710,
+		"confidence": 0.9835140018066847,
+		"confidencePurity": 0.8642852085121535
+	},
+	{
+		"antecedent": [
+			"11",
+			"13",
+			"25",
+			"29"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8896,
+		"antecedentNConsequentSUP  ": 8770,
+		"confidence": 0.9858363309352518,
+		"confidencePurity": 0.8800788517608075
+	},
+	{
+		"antecedent": [
+			"11",
+			"13",
+			"25",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8858,
+		"antecedentNConsequentSUP  ": 8735,
+		"confidence": 0.986114247008354,
+		"confidencePurity": 0.882008439381814
+	},
+	{
+		"antecedent": [
+			"11",
+			"13",
+			"29",
+			"31"
+		],
+		"consequent ": "100",
+		"antecedentSUP ": 8879,
+		"antecedentNConsequentSUP  ": 8766,
+		"confidence": 0.9872733415925217,
+		"confidencePurity": 0.8901548418947607
+	},
+	{
+		"antecedent": [
+			"12",
+			"14",
+			"20",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8932,
+		"antecedentNConsequentSUP  ": 8828,
+		"confidence": 0.9883564711150918,
+		"confidencePurity": 0.8979201424186187
+	},
+	{
+		"antecedent": [
+			"12",
+			"14",
+			"20",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8901,
+		"antecedentNConsequentSUP  ": 8805,
+		"confidence": 0.9892146949780923,
+		"confidencePurity": 0.9041863615579938
+	},
+	{
+		"antecedent": [
+			"12",
+			"14",
+			"20",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8906,
+		"antecedentNConsequentSUP  ": 8759,
+		"confidence": 0.9834942735234673,
+		"confidencePurity": 0.864153439737228
+	},
+	{
+		"antecedent": [
+			"12",
+			"14",
+			"24",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8972,
+		"antecedentNConsequentSUP  ": 8858,
+		"confidence": 0.9872938029424877,
+		"confidencePurity": 0.890300128743612
+	},
+	{
+		"antecedent": [
+			"12",
+			"14",
+			"24",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8870,
+		"antecedentNConsequentSUP  ": 8725,
+		"confidence": 0.9836527621195039,
+		"confidencePurity": 0.8652131081469481
+	},
+	{
+		"antecedent": [
+			"12",
+			"14",
+			"28",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8892,
+		"antecedentNConsequentSUP  ": 8751,
+		"confidence": 0.9841430499325237,
+		"confidencePurity": 0.8685072308498001
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"18",
+			"20"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8836,
+		"antecedentNConsequentSUP  ": 8726,
+		"confidence": 0.9875509280217293,
+		"confidencePurity": 0.892130384665751
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"18",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8849,
+		"antecedentNConsequentSUP  ": 8743,
+		"confidence": 0.9880212453384564,
+		"confidencePurity": 0.895500278461598
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"18",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8756,
+		"antecedentNConsequentSUP  ": 8655,
+		"confidence": 0.9884650525354043,
+		"confidencePurity": 0.8987072239969701
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"18",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8913,
+		"antecedentNConsequentSUP  ": 8819,
+		"confidence": 0.9894536070907664,
+		"confidencePurity": 0.9059496612120964
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"18",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8848,
+		"antecedentNConsequentSUP  ": 8736,
+		"confidence": 0.9873417721518988,
+		"confidencePurity": 0.8906409436453472
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"18",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8897,
+		"antecedentNConsequentSUP  ": 8793,
+		"confidence": 0.9883106665168034,
+		"confidencePurity": 0.8975885997150231
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"18",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8817,
+		"antecedentNConsequentSUP  ": 8685,
+		"confidence": 0.9850289214018374,
+		"confidencePurity": 0.8745223996955217
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"20",
+			"24"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8903,
+		"antecedentNConsequentSUP  ": 8799,
+		"confidence": 0.9883185443109065,
+		"confidencePurity": 0.897645600360966
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"20",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8757,
+		"antecedentNConsequentSUP  ": 8656,
+		"confidence": 0.9884663697613338,
+		"confidencePurity": 0.8987167822165008
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"20",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8927,
+		"antecedentNConsequentSUP  ": 8811,
+		"confidence": 0.987005713005489,
+		"confidencePurity": 0.8882593569725954
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"20",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8820,
+		"antecedentNConsequentSUP  ": 8708,
+		"confidence": 0.9873015873015873,
+		"confidencePurity": 0.8903554158376644
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"20",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8956,
+		"antecedentNConsequentSUP  ": 8844,
+		"confidence": 0.9874944171505137,
+		"confidencePurity": 0.8917274087399442
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"20",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8865,
+		"antecedentNConsequentSUP  ": 8714,
+		"confidence": 0.982966723068246,
+		"confidencePurity": 0.8606440233641641
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"24",
+			"26"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8822,
+		"antecedentNConsequentSUP  ": 8718,
+		"confidence": 0.9882112899569259,
+		"confidencePurity": 0.8968702739054125
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"24",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8963,
+		"antecedentNConsequentSUP  ": 8860,
+		"confidence": 0.9885083119491241,
+		"confidencePurity": 0.8990212536300451
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"24",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8841,
+		"antecedentNConsequentSUP  ": 8724,
+		"confidence": 0.9867662029182219,
+		"confidencePurity": 0.886570528969011
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"24",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8888,
+		"antecedentNConsequentSUP  ": 8792,
+		"confidence": 0.9891989198919892,
+		"confidencePurity": 0.904070229774667
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"24",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8865,
+		"antecedentNConsequentSUP  ": 8722,
+		"confidence": 0.9838691483361535,
+		"confidencePurity": 0.866663948426139
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"26",
+			"28"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8836,
+		"antecedentNConsequentSUP  ": 8737,
+		"confidence": 0.9887958352195564,
+		"confidencePurity": 0.9011150736049451
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"26",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8785,
+		"antecedentNConsequentSUP  ": 8670,
+		"confidence": 0.9869095048377917,
+		"confidencePurity": 0.8875801313855435
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"26",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8894,
+		"antecedentNConsequentSUP  ": 8790,
+		"confidence": 0.9883067236339105,
+		"confidencePurity": 0.8975600737269024
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"26",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8805,
+		"antecedentNConsequentSUP  ": 8662,
+		"confidence": 0.9837592277115276,
+		"confidencePurity": 0.8659263564060665
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"28",
+			"30"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8866,
+		"antecedentNConsequentSUP  ": 8762,
+		"confidence": 0.9882697947214076,
+		"confidencePurity": 0.8972930029357475
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"28",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8929,
+		"antecedentNConsequentSUP  ": 8834,
+		"confidence": 0.9893605106954866,
+		"confidencePurity": 0.9052615522325248
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"28",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8918,
+		"antecedentNConsequentSUP  ": 8781,
+		"confidence": 0.9846378111684234,
+		"confidencePurity": 0.8718564883861354
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"30",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8893,
+		"antecedentNConsequentSUP  ": 8797,
+		"confidence": 0.9892049926908805,
+		"confidencePurity": 0.9041149317044007
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"30",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8781,
+		"antecedentNConsequentSUP  ": 8639,
+		"confidence": 0.9838287211023802,
+		"confidencePurity": 0.8663925307362279
+	},
+	{
+		"antecedent": [
+			"12",
+			"16",
+			"32",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8930,
+		"antecedentNConsequentSUP  ": 8790,
+		"confidence": 0.9843225083986562,
+		"confidencePurity": 0.869719115197821
+	},
+	{
+		"antecedent": [
+			"14",
+			"16",
+			"18",
+			"22"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8791,
+		"antecedentNConsequentSUP  ": 8693,
+		"confidence": 0.988852235240587,
+		"confidencePurity": 0.9015271589181685
+	},
+	{
+		"antecedent": [
+			"14",
+			"16",
+			"18",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8884,
+		"antecedentNConsequentSUP  ": 8777,
+		"confidence": 0.9879558757316524,
+		"confidencePurity": 0.8950301567509646
+	},
+	{
+		"antecedent": [
+			"14",
+			"16",
+			"18",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8797,
+		"antecedentNConsequentSUP  ": 8655,
+		"confidence": 0.9838581334545868,
+		"confidencePurity": 0.866589981049272
+	},
+	{
+		"antecedent": [
+			"14",
+			"16",
+			"22",
+			"32"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8943,
+		"antecedentNConsequentSUP  ": 8840,
+		"confidence": 0.9884826120988482,
+		"confidencePurity": 0.8988346615744052
+	},
+	{
+		"antecedent": [
+			"14",
+			"16",
+			"22",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8834,
+		"antecedentNConsequentSUP  ": 8694,
+		"confidence": 0.9841521394611727,
+		"confidencePurity": 0.8685685325452478
+	},
+	{
+		"antecedent": [
+			"14",
+			"16",
+			"32",
+			"34"
+		],
+		"consequent ": "101",
+		"antecedentSUP ": 8924,
+		"antecedentNConsequentSUP  ": 8773,
+		"confidence": 0.9830793366203496,
+		"confidencePurity": 0.8613908825611898
+	}
+]
