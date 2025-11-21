@@ -37,7 +37,8 @@ def classifier1(rules, mapping, subClasses, new_sample):
     matchingRules = [rule for rule in rules if all(item in values_list for item in rule.antecedent)]
     # for r in matchingRules:
     #     print(r.toString())
-        
+    if len(matchingRules) == 0:
+        return '404', "No Result for you symptoms"
     for subClass in subClasses:
         ruleWithConsequentIsSubClass = [rule for rule in matchingRules if rule.consequent == subClass]
         
